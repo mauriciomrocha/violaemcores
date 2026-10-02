@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="pt-BR" data-raiz="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Identificar acorde · Viola em Cores</title>
+<meta name="description" content="Marque as casas no braço da viola caipira (ou digite X 4 3 5 4) e veja o nome do acorde, as notas em cores, as inversões e onde a forma aparece no dicionário, nas formas móveis e nos tons.">
+<meta name="author" content="Maurício Rocha">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#1D1D1F">
+<link rel="canonical" href="https://mauriciomrocha.github.io/violaemcores/identificar/">
+<meta property="og:url" content="https://mauriciomrocha.github.io/violaemcores/identificar/">
+<meta property="og:site_name" content="Viola em Cores">
+<meta property="og:title" content="Identificar acorde · Viola em Cores">
+<meta property="og:description" content="Marque as casas no braço da viola caipira (ou digite X 4 3 5 4) e veja o nome do acorde, as notas em cores, as inversões e onde a forma aparece no dicionário, nas formas móveis e nos tons.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:image" content="https://mauriciomrocha.github.io/violaemcores/icones/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Viola em Cores: as 12 notas em cores sobre o braço da viola">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../icones/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icones/apple-touch-icon.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="stylesheet" href="../css/estilo.css">
+<script>try{var t=localStorage.getItem("vc.tema");if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<script>document.documentElement.classList.add("js-pendente")</script>
+<script src="../js/comum.js" defer></script>
+<script src="../js/identificar.js" defer></script>
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo"><div class="topo-in">
+<a class="marca" href="../"><img src="../icones/favicon.svg" alt="" width="26" height="26">Viola em Cores</a>
+<form class="busca-topo" role="search" action="../busca/" method="get">
+<input type="search" name="q" placeholder="Buscar acorde: Lá7, Bm…" aria-label="Buscar acorde (ex.: Lá7, A7, Si menor, Bm)" autocomplete="off">
+<button type="submit" aria-label="Buscar">🔍</button>
+</form>
+<label class="afin-sel"><span class="sr">Afinação</span><select id="afinacao" title="Afinação da viola"><option value="cebolao-mi">Cebolão em Mi</option><option value="cebolao-re">Cebolão em Ré</option></select></label>
+<button class="botao-tema" id="tema" type="button" aria-label="Tema (trocar)">◐</button>
+<a class="botao-apoie" href="../apoie/" aria-label="Apoie o projeto"><span aria-hidden="true">♥</span></a>
+<nav aria-label="Seções do site"><ul class="nav"><li><a href="../dicionario/">Dicionário</a></li><li><a href="../formas/">Formas</a></li><li><a href="../tons/">Tons</a></li><li><a href="../progressoes/">Progressões</a></li><li><a href="../identificar/" aria-current="page">Identificar</a></li><li><a href="../treino/">Treino</a></li><li><a href="../glossario/">Glossário</a></li><li><a href="../downloads/">Downloads</a></li><li><a href="../sobre/">Sobre</a></li><li><a href="../apoie/" class="apoie">Apoie <span aria-hidden="true">♥</span></a></li></ul></nav>
+</div></header>
+<div class="cab"><div class="wrap"><h1>Identificar acorde</h1><p class="sub">Marque as casas ou digite a forma: o nome, as notas e onde ela aparece</p></div></div>
+<div class="painel-ctl"><div class="wrap">
+<form class="ctl" id="formCasas" autocomplete="off">
+<label class="grupo" for="casasTxt"><span class="rot">Casas do 5º ao 1º par</span></label>
+<input id="casasTxt" type="text" aria-label="Casas do 5º ao 1º par" inputmode="text" placeholder="X 4 3 5 4" aria-describedby="ajudaCasas" style="width:10em">
+<button class="btn" type="submit">Identificar</button>
+<button class="btn sec" type="button" id="limpar">Limpar</button>
+</form>
+<p class="suave" id="ajudaCasas" style="margin:4px 0">X = par não tocado · 0 = solto · número = casa. Ex.: <b>X 4 3 5 4</b>.
+<span id="erroCasas" class="erro" role="alert"></span></p>
+<div class="grupo" role="group" aria-label="Exemplos"><button class="chip" type="button" data-ex="X 4 3 5 4">X 4 3 5 4</button><button class="chip" type="button" data-ex="X 0 0 0 0">X 0 0 0 0</button><button class="chip" type="button" data-ex="2 0 1 2 0">2 0 1 2 0</button><button class="chip" type="button" data-ex="X 0 0 2 0">X 0 0 2 0</button><button class="chip" type="button" data-ex="X 1 3 3 4">X 1 3 3 4</button><button class="chip" type="button" data-ex="X 2 1 2 X">X 2 1 2 X</button></div>
+</div></div>
+<main id="conteudo" class="wrap">
+<section aria-labelledby="hBraco"><h2 id="hBraco" class="sr">Braço</h2>
+<div class="painel">
+<div class="topo-braco"><div class="nome-grande" id="nome" aria-live="polite"></div>
+<button id="ouvir" type="button" class="btn sec">▶ Ouvir</button></div>
+<div id="braco" class="braco-caixa editavel"></div>
+<p class="suave" style="margin:6px 0">Toque numa casa para marcar o par ali; toque de novo para não tocar o par.
+Antes da pestana do instrumento = par solto.</p>
+<div class="pares-sel" role="group" aria-label="Casa de cada par"><label class="par-sel"><span>5º par</span><select id="s5" aria-label="5º par: casa"><option value="-1">X</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option></select></label><label class="par-sel"><span>4º par</span><select id="s4" aria-label="4º par: casa"><option value="-1">X</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option></select></label><label class="par-sel"><span>3º par</span><select id="s3" aria-label="3º par: casa"><option value="-1">X</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option></select></label><label class="par-sel"><span>2º par</span><select id="s2" aria-label="2º par: casa"><option value="-1">X</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option></select></label><label class="par-sel"><span>1º par</span><select id="s1" aria-label="1º par: casa"><option value="-1">X</option><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option></select></label></div>
+<div class="notas" id="notas"></div>
+</div>
+</section>
+<div class="colunas-ident">
+<section aria-labelledby="hNomes"><h2 id="hNomes">Nomes</h2><div id="nomes"></div></section>
+<section aria-labelledby="hOnde"><h2 id="hOnde">Onde esta forma aparece</h2><div id="onde"></div></section>
+</div>
+<noscript><p class="aviso">O identificador funciona no navegador: ative o JavaScript.</p></noscript>
+</main>
+<footer class="rodape"><div class="wrap">
+Viola em Cores · <a href="../sobre/#direitos">© 2026 Maurício Rocha, todos os direitos reservados</a> ·
+<a href="../sobre/">Sobre</a> · <a href="../privacidade/">Privacidade</a> · <a href="../glossario/">Glossário</a> ·
+<a href="../apoie/">Apoie o projeto</a><br>
+Viola caipira em <span data-afin="nome">cebolão em Mi</span>: <span data-afin="pares">5º par Si · 4º Mi · 3º Sol# · 2º Si · 1º Mi</span>.
+</div></footer>
+</body>
+</html>

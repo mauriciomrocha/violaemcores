@@ -1,0 +1,300 @@
+{
+ "versao_esquema": 1,
+ "termos": [
+  {
+   "id": "dominante",
+   "termo": "Acorde com sétima (dominante)",
+   "definicao": "Acorde maior com a 7ª menor, como Si7 (Si, Ré#, Fá#, Lá). É o acorde da função dominante: cria tensão que pede a volta à tônica. Também é chamado de sétima menor ou sétima da dominante.",
+   "ver": [
+    "funcao",
+    "dominante-secundaria"
+   ]
+  },
+  {
+   "id": "maior-menor",
+   "termo": "Acorde maior e acorde menor",
+   "definicao": "O maior tem 3ª maior (4 semitons acima da fundamental) e soa aberto; o menor tem 3ª menor (3 semitons) e soa mais fechado. Os dois têm 5ª justa.",
+   "ver": [
+    "triade"
+   ]
+  },
+  {
+   "id": "afinacao",
+   "termo": "Afinação",
+   "definicao": "As notas em que as cordas soltas são afinadas. Todo o conteúdo deste site é para o cebolão em Mi.",
+   "ver": [
+    "cebolao"
+   ]
+  },
+  {
+   "id": "campo-harmonico",
+   "termo": "Campo harmônico",
+   "definicao": "Os 7 acordes formados só com as notas da escala do tom, um sobre cada grau. Em Mi maior: Mi, Fá#m, Sol#m, Lá, Si, Dó#m e Ré#m(b5).",
+   "ver": [
+    "grau",
+    "funcao"
+   ]
+  },
+  {
+   "id": "casa",
+   "termo": "Casa",
+   "definicao": "O espaço entre dois trastes do braço. Cada casa sobe a nota em meio tom. Casa 0 é a corda solta.",
+   "ver": [
+    "casa-da-forma",
+    "corda-solta"
+   ]
+  },
+  {
+   "id": "casa-da-forma",
+   "termo": "Casa de uma forma",
+   "definicao": "A casa do dedo 1 ou da pestana, que é a casa mais baixa pressionada. Na casa 0, a pestana do instrumento faz o papel do dedo 1: esses pares ficam soltos e os outros dedos mudam de número.",
+   "ver": [
+    "forma-movel",
+    "pestana"
+   ]
+  },
+  {
+   "id": "cebolao",
+   "termo": "Cebolão em Mi",
+   "definicao": "Afinação da viola caipira em que os pares soltos, do 5º ao 1º, soam Si, Mi, Sol#, Si e Mi. Tocados juntos, formam um acorde de Mi maior; por isso os tons de Mi, Lá, Si e Ré soam tão bem nela.",
+   "ver": [
+    "afinacao",
+    "par"
+   ]
+  },
+  {
+   "id": "cifra",
+   "termo": "Cifra",
+   "definicao": "Nome do acorde escrito com letras: C = Dó, D = Ré, E = Mi, F = Fá, G = Sol, A = Lá, B = Si. O que vem depois diz o tipo: Am = Lá menor, B7 = Si com sétima, F#m7 = Fá# menor com sétima.",
+   "ver": [
+    "fundamental"
+   ]
+  },
+  {
+   "id": "corda-solta",
+   "termo": "Corda solta",
+   "definicao": "Par tocado sem apertar nenhuma casa. No diagrama, é um círculo vazado acima da pestana do instrumento.",
+   "ver": [
+    "forma-aberta"
+   ]
+  },
+  {
+   "id": "dedos",
+   "termo": "Dedos",
+   "definicao": "O número dentro da bolinha é o dedo da mão que aperta: 1 indicador, 2 médio, 3 anelar e 4 mínimo.",
+   "ver": [
+    "pestana"
+   ]
+  },
+  {
+   "id": "diminuto",
+   "termo": "Diminuto (º)",
+   "definicao": "Acorde de quatro notas separadas por 3 semitons, como Dóº (Dó, Mib, Solb, Lá). É simétrico: a mesma forma se repete a cada 3 casas, e cada posição vale por 4 nomes (Dóº = Mibº = Fá#º = Láº).",
+   "ver": [
+    "meio-diminuto"
+   ]
+  },
+  {
+   "id": "dobrado-sustenido",
+   "termo": "Dobrado sustenido (𝄪)",
+   "definicao": "Acidente que sobe a nota dois semitons. Aparece no tom de Sol# menor, cuja sensível é Fá𝄪: soa como Sol, mas é escrita assim para cada letra aparecer uma vez só na escala.",
+   "ver": [
+    "enarmonia",
+    "tom"
+   ]
+  },
+  {
+   "id": "dominante-secundaria",
+   "termo": "Dominante secundária",
+   "definicao": "Acorde com sétima que prepara outro acorde do tom que não a tônica. Na progressão I – I7 – IV, o I7 é a dominante do IV (V7/IV).",
+   "ver": [
+    "dominante"
+   ]
+  },
+  {
+   "id": "enarmonia",
+   "termo": "Enarmonia",
+   "definicao": "Duas grafias para o mesmo som, como Lá# e Sib. Notas enarmônicas têm a mesma cor neste site.",
+   "ver": [
+    "dobrado-sustenido"
+   ]
+  },
+  {
+   "id": "familia",
+   "termo": "Família de forma",
+   "definicao": "O conjunto das posições de uma forma móvel, da casa 0 à 12. As famílias têm nome pelo tipo de acorde e por uma letra (Maior A, Menor B…).",
+   "ver": [
+    "forma-movel"
+   ]
+  },
+  {
+   "id": "forma",
+   "termo": "Forma",
+   "definicao": "O desenho dos dedos no braço que produz um acorde. A mesma forma, em casas diferentes, dá acordes diferentes do mesmo tipo.",
+   "ver": [
+    "forma-movel",
+    "forma-aberta"
+   ]
+  },
+  {
+   "id": "forma-aberta",
+   "termo": "Forma aberta",
+   "definicao": "Forma que usa corda solta. Não desliza pelo braço, mas é a que mais soa \"viola\" no cebolão. Toda forma aberta do dicionário tem as mesmas notas de alguma família na casa 0.",
+   "ver": [
+    "corda-solta",
+    "familia"
+   ]
+  },
+  {
+   "id": "forma-incompleta",
+   "termo": "Forma incompleta (ⓘ)",
+   "definicao": "Forma em que falta uma nota do acorde, em geral a 5ª ou a fundamental. É comum e soa bem; o ⓘ avisa qual nota falta.",
+   "ver": [
+    "fundamental",
+    "tetrade"
+   ]
+  },
+  {
+   "id": "forma-movel",
+   "termo": "Forma móvel",
+   "definicao": "Forma sem corda solta. Deslizando a mão casa a casa, ela continua dando o mesmo tipo de acorde, com a fundamental subindo meio tom por casa.",
+   "ver": [
+    "familia",
+    "casa-da-forma"
+   ]
+  },
+  {
+   "id": "funcao",
+   "termo": "Função harmônica",
+   "definicao": "O papel do acorde no tom: Tônica (T) é repouso; Subdominante (S) afasta da tônica; Dominante (D) cria tensão que pede a volta à tônica.",
+   "ver": [
+    "campo-harmonico",
+    "dominante"
+   ]
+  },
+  {
+   "id": "fundamental",
+   "termo": "Fundamental",
+   "definicao": "A nota que dá nome ao acorde (o Lá do Lá maior). Nos diagramas, a borda preta grossa marca a fundamental. Quando uma forma não tem a fundamental, ela aparece tracejada ao lado, só como referência.",
+   "ver": [
+    "forma-incompleta"
+   ]
+  },
+  {
+   "id": "grau",
+   "termo": "Grau",
+   "definicao": "A posição do acorde no campo harmônico, em algarismos romanos: I é o acorde da tônica, V o da dominante. Maiúsculo indica acorde maior; minúsculo, menor; ° indica diminuto.",
+   "ver": [
+    "campo-harmonico"
+   ]
+  },
+  {
+   "id": "meio-diminuto",
+   "termo": "Meio-diminuto (m7(b5))",
+   "definicao": "Acorde menor com a 5ª diminuta e a 7ª menor, como Sim7(b5) (Si, Ré, Fá, Lá). Aparece no 7º grau do tom maior e no 2º do tom menor.",
+   "ver": [
+    "diminuto"
+   ]
+  },
+  {
+   "id": "menor-setima",
+   "termo": "Menor com sétima (m7)",
+   "definicao": "Acorde menor com a 7ª menor, como Lám7 (Lá, Dó, Mi, Sol).",
+   "ver": [
+    "tetrade"
+   ]
+  },
+  {
+   "id": "movimento",
+   "termo": "Movimento da mão",
+   "definicao": "Entre dois acordes da progressão, a seta diz quanto a mão sobe ou desce no braço. \"Mão livre\" quando um dos acordes só usa cordas soltas.",
+   "ver": [
+    "regiao"
+   ]
+  },
+  {
+   "id": "oitava-unissono",
+   "termo": "Oitava e uníssono",
+   "definicao": "No cebolão, os três pares mais graves (5º, 4º e 3º) têm uma corda fina afinada uma oitava acima da grossa; os dois mais agudos (2º e 1º) têm as duas cordas na mesma nota (uníssono). É isso que dá o brilho da viola.",
+   "ver": [
+    "par"
+   ]
+  },
+  {
+   "id": "par",
+   "termo": "Par (de cordas)",
+   "definicao": "A viola caipira tem 5 pares de cordas, e cada par é tocado junto, como se fosse uma corda só. O 5º par é o mais grave e o 1º, o mais agudo. Nos diagramas, o 5º par fica à esquerda.",
+   "ver": [
+    "oitava-unissono"
+   ]
+  },
+  {
+   "id": "pestana",
+   "termo": "Pestana",
+   "definicao": "Um dedo (em geral o 1, o indicador) deitado sobre vários pares, apertando todos na mesma casa. Nos diagramas é a barra cinza. A barra preta no alto do diagrama é a pestana do instrumento, a peça onde as cordas soltas terminam.",
+   "ver": [
+    "casa-da-forma"
+   ]
+  },
+  {
+   "id": "progressao",
+   "termo": "Progressão",
+   "definicao": "Uma sequência de acordes, escrita em graus para valer em qualquer tom: I – IV – V7 – I é a progressão de três acordes.",
+   "ver": [
+    "grau",
+    "regiao"
+   ]
+  },
+  {
+   "id": "regiao",
+   "termo": "Região do braço",
+   "definicao": "Faixa de casas onde a progressão é tocada. Região 1: casas 0 a 5, com as formas abertas; região 2: casas 4 a 9; região 3: casas 8 a 13. Em cada região, as formas são escolhidas para a mão andar o mínimo.",
+   "ver": [
+    "movimento"
+   ]
+  },
+  {
+   "id": "setima-maior",
+   "termo": "Sétima maior (7M)",
+   "definicao": "Acorde maior com a 7ª maior, meio tom abaixo da fundamental, como Dó7M (Dó, Mi, Sol, Si). Soa suave e aberto.",
+   "ver": [
+    "tetrade"
+   ]
+  },
+  {
+   "id": "tetrade",
+   "termo": "Tétrade",
+   "definicao": "Tríade com mais uma nota, a 7ª. Na viola, que tem 5 pares, a tétrade às vezes é tocada sem a 5ª.",
+   "ver": [
+    "triade",
+    "tetrade-simplificada"
+   ]
+  },
+  {
+   "id": "tetrade-simplificada",
+   "termo": "Tétrade simplificada",
+   "definicao": "Quando não há forma da tétrade dentro da região, a progressão usa a tríade do mesmo grau, e o acorde vem marcado como \"tríade\".",
+   "ver": [
+    "tetrade",
+    "regiao"
+   ]
+  },
+  {
+   "id": "tom",
+   "termo": "Tom",
+   "definicao": "A escala e o centro de repouso de uma música: em Mi maior, tudo gira em torno do acorde de Mi. Há 24 tons, 12 maiores e 12 menores.",
+   "ver": [
+    "campo-harmonico"
+   ]
+  },
+  {
+   "id": "triade",
+   "termo": "Tríade",
+   "definicao": "Acorde de três notas diferentes, empilhadas em terças: fundamental, 3ª e 5ª. Os acordes maiores, menores e a tríade diminuta são tríades.",
+   "ver": [
+    "tetrade",
+    "maior-menor"
+   ]
+  }
+ ]
+}

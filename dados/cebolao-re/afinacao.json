@@ -1,0 +1,184 @@
+{
+ "versao_esquema": 1,
+ "id": "cebolao-re",
+ "nome": "Cebolão em Ré",
+ "ordem": [
+  "5",
+  "4",
+  "3",
+  "2",
+  "1"
+ ],
+ "descricao_ordem": "Do 5º par (mais grave) ao 1º (mais agudo); nos diagramas, da esquerda para a direita.",
+ "pares": [
+  {
+   "par": "5",
+   "pt": "Lá",
+   "cifra": "A",
+   "pc": 9,
+   "midi": 45,
+   "oitava_no_par": true
+  },
+  {
+   "par": "4",
+   "pt": "Ré",
+   "cifra": "D",
+   "pc": 2,
+   "midi": 50,
+   "oitava_no_par": true
+  },
+  {
+   "par": "3",
+   "pt": "Fá#",
+   "cifra": "F#",
+   "pc": 6,
+   "midi": 54,
+   "oitava_no_par": true
+  },
+  {
+   "par": "2",
+   "pt": "Lá",
+   "cifra": "A",
+   "pc": 9,
+   "midi": 57,
+   "oitava_no_par": false
+  },
+  {
+   "par": "1",
+   "pt": "Ré",
+   "cifra": "D",
+   "pc": 2,
+   "midi": 62,
+   "oitava_no_par": false
+  }
+ ],
+ "notas": [
+  {
+   "pc": 0,
+   "pt": "Dó",
+   "cifra": "C",
+   "pt_bemol": "Dó",
+   "cifra_bemol": "C",
+   "cor": "#E53935",
+   "texto": "#000000",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 1,
+   "pt": "Dó#",
+   "cifra": "C#",
+   "pt_bemol": "Réb",
+   "cifra_bemol": "Db",
+   "cor": "#F4511E",
+   "texto": "#000000",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 2,
+   "pt": "Ré",
+   "cifra": "D",
+   "pt_bemol": "Ré",
+   "cifra_bemol": "D",
+   "cor": "#FB8C00",
+   "texto": "#000000",
+   "texto_v1": "#000000"
+  },
+  {
+   "pc": 3,
+   "pt": "Ré#",
+   "cifra": "D#",
+   "pt_bemol": "Mib",
+   "cifra_bemol": "Eb",
+   "cor": "#FDD835",
+   "texto": "#000000",
+   "texto_v1": "#000000"
+  },
+  {
+   "pc": 4,
+   "pt": "Mi",
+   "cifra": "E",
+   "pt_bemol": "Mi",
+   "cifra_bemol": "E",
+   "cor": "#C0CA33",
+   "texto": "#000000",
+   "texto_v1": "#000000"
+  },
+  {
+   "pc": 5,
+   "pt": "Fá",
+   "cifra": "F",
+   "pt_bemol": "Fá",
+   "cifra_bemol": "F",
+   "cor": "#43A047",
+   "texto": "#000000",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 6,
+   "pt": "Fá#",
+   "cifra": "F#",
+   "pt_bemol": "Solb",
+   "cifra_bemol": "Gb",
+   "cor": "#00897B",
+   "texto": "#000000",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 7,
+   "pt": "Sol",
+   "cifra": "G",
+   "pt_bemol": "Sol",
+   "cifra_bemol": "G",
+   "cor": "#00ACC1",
+   "texto": "#000000",
+   "texto_v1": "#000000"
+  },
+  {
+   "pc": 8,
+   "pt": "Sol#",
+   "cifra": "G#",
+   "pt_bemol": "Láb",
+   "cifra_bemol": "Ab",
+   "cor": "#1E88E5",
+   "texto": "#000000",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 9,
+   "pt": "Lá",
+   "cifra": "A",
+   "pt_bemol": "Lá",
+   "cifra_bemol": "A",
+   "cor": "#3949AB",
+   "texto": "#FFFFFF",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 10,
+   "pt": "Lá#",
+   "cifra": "A#",
+   "pt_bemol": "Sib",
+   "cifra_bemol": "Bb",
+   "cor": "#8E24AA",
+   "texto": "#FFFFFF",
+   "texto_v1": "#FFFFFF"
+  },
+  {
+   "pc": 11,
+   "pt": "Si",
+   "cifra": "B",
+   "pt_bemol": "Si",
+   "cifra_bemol": "B",
+   "cor": "#D81B60",
+   "texto": "#FFFFFF",
+   "texto_v1": "#FFFFFF"
+  }
+ ],
+ "convencoes": {
+  "casas": "-1 = par não tocado (X), 0 = solto, n = casa n",
+  "casa_da_forma": "casa do dedo 1 ou da pestana (a casa mais baixa pressionada)",
+  "pestana": "[casa, par inicial, par final], com os pares como texto ('4' até '1')",
+  "cor": "a cor sai sempre da classe de altura (pc 0 = Dó … 11 = Si), nunca da grafia",
+  "texto": "cor do texto sobre a cor da nota com contraste AA (≥ 4,5:1)"
+ }
+}

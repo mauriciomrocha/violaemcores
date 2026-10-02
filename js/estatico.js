@@ -1,0 +1,1 @@
+!function(){"use strict";document.querySelectorAll("button.ouvir[data-casas]").forEach(function(t){t.hidden=!1}),document.addEventListener("click",function(t){var a=t.target.closest("button.ouvir[data-casas]");a&&VC.tocar(a.dataset.casas.split(",").map(Number),0,!1,1)});var t=VC.$("avisoAfin");t&&VC.AFIN_ID!==VC.AFIN_PADRAO&&(t.hidden=!1)}();

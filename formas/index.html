@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-BR" data-raiz="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Formas móveis · Viola em Cores</title>
+<meta name="description" content="As formas de dedos da viola caipira deslizando pelo braço, casa por casa, com o acorde que cada posição forma: cebolão em Mi, notas em cores.">
+<meta name="author" content="Maurício Rocha">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#1D1D1F">
+<link rel="canonical" href="https://mauriciomrocha.github.io/violaemcores/formas/">
+<meta property="og:url" content="https://mauriciomrocha.github.io/violaemcores/formas/">
+<meta property="og:site_name" content="Viola em Cores">
+<meta property="og:title" content="Formas móveis · Viola em Cores">
+<meta property="og:description" content="As formas de dedos da viola caipira deslizando pelo braço, casa por casa, com o acorde que cada posição forma: cebolão em Mi, notas em cores.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:image" content="https://mauriciomrocha.github.io/violaemcores/icones/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Viola em Cores: as 12 notas em cores sobre o braço da viola">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../icones/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icones/apple-touch-icon.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="stylesheet" href="../css/estilo.css">
+<script>try{var t=localStorage.getItem("vc.tema");if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<script>document.documentElement.classList.add("js-pendente")</script>
+<script src="../js/comum.js" defer></script>
+<script src="../js/formas.js" defer></script>
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo"><div class="topo-in">
+<a class="marca" href="../"><img src="../icones/favicon.svg" alt="" width="26" height="26">Viola em Cores</a>
+<form class="busca-topo" role="search" action="../busca/" method="get">
+<input type="search" name="q" placeholder="Buscar acorde: Lá7, Bm…" aria-label="Buscar acorde (ex.: Lá7, A7, Si menor, Bm)" autocomplete="off">
+<button type="submit" aria-label="Buscar">🔍</button>
+</form>
+<label class="afin-sel"><span class="sr">Afinação</span><select id="afinacao" title="Afinação da viola"><option value="cebolao-mi">Cebolão em Mi</option><option value="cebolao-re">Cebolão em Ré</option></select></label>
+<button class="botao-tema" id="tema" type="button" aria-label="Tema (trocar)">◐</button>
+<a class="botao-apoie" href="../apoie/" aria-label="Apoie o projeto"><span aria-hidden="true">♥</span></a>
+<nav aria-label="Seções do site"><ul class="nav"><li><a href="../dicionario/">Dicionário</a></li><li><a href="../formas/" aria-current="page">Formas</a></li><li><a href="../tons/">Tons</a></li><li><a href="../progressoes/">Progressões</a></li><li><a href="../identificar/">Identificar</a></li><li><a href="../treino/">Treino</a></li><li><a href="../glossario/">Glossário</a></li><li><a href="../downloads/">Downloads</a></li><li><a href="../sobre/">Sobre</a></li><li><a href="../apoie/" class="apoie">Apoie <span aria-hidden="true">♥</span></a></li></ul></nav>
+</div></header>
+<div class="cab"><div class="wrap"><h1>Formas móveis pelo braço</h1><p class="sub">21 famílias de forma, da casa 0 à 12, e as 20 formas abertas</p></div></div>
+<div class="painel-ctl"><div class="wrap">
+<div class="ctl"><span class="rot">Tipo</span><div class="grupo" id="tipos" role="group" aria-label="Tipo de acorde" style="min-height:44px"></div></div>
+<div class="ctl" style="margin-top:6px"><span class="rot">Forma</span><div class="grupo" id="familias" role="group" aria-label="Família de forma" style="min-height:44px"></div></div>
+</div></div>
+<main id="conteudo" class="wrap">
+<div id="famcab"><h2 id="famNome" style="margin-top:.4em">Formas móveis</h2>
+<p class="suave" id="famDesc" style="margin:0"></p><p class="dica" id="famDica" style="font-size:.9rem"></p></div>
+<div class="abas" role="tablist" aria-label="Vista" id="abas">
+<button class="aba" type="button" role="tab" id="aba-braco" data-v="braco" aria-controls="v-braco" aria-selected="true">Braço</button>
+<button class="aba" type="button" role="tab" id="aba-trilha" data-v="trilha" aria-controls="v-trilha" aria-selected="false" tabindex="-1">Casa a casa</button>
+<button class="aba" type="button" role="tab" id="aba-tabela" data-v="tabela" aria-controls="v-tabela" aria-selected="false" tabindex="-1">Tabela</button>
+<button class="aba" type="button" role="tab" id="aba-abertas" data-v="abertas" aria-controls="v-abertas" aria-selected="false" tabindex="-1">Formas abertas</button>
+</div>
+<section id="v-braco" role="tabpanel" aria-labelledby="aba-braco"><div class="painel">
+<div class="topo-braco"><div class="nome-grande" id="nome" aria-live="polite"></div>
+<div class="casa-grande"><div class="l">casa do dedo 1</div><div class="n" id="casaN">0</div></div></div>
+<div id="braco" class="braco-caixa"></div>
+<div class="navegar"><div class="nav-braco"><button id="ant" type="button" aria-label="Voltar uma casa">◀</button></div>
+<input id="casa" type="range" min="0" max="12" step="1" value="0" aria-label="Casa">
+<div class="nav-braco"><button id="prox" type="button" aria-label="Avançar uma casa">▶</button>
+<button id="ouvirAtual" type="button" class="btn sec">▶ Ouvir</button></div></div>
+<div class="notas" id="notas"></div>
+<p class="detalhe" id="detalhe"></p>
+<p><button class="chip" id="optRotulo" type="button" aria-pressed="false">Bolinha: nome da nota</button>
+<span class="suave">Teclas ← → mudam a casa.</span></p>
+</div>
+<p class="como"><b>Como ler:</b> bolinha na cor da nota que soa · <b>borda preta grossa = fundamental</b> · anel
+tracejado = nota de referência quando a forma não tem fundamental · barra cinza = pestana · círculo antes da
+pestana do instrumento = par solto · × = não tocar. A casa de uma forma é sempre a do dedo 1 (ou da pestana).</p>
+</section>
+<section id="v-trilha" role="tabpanel" aria-labelledby="aba-trilha" hidden>
+<p class="suave">A mesma forma, casa por casa. Toque num diagrama para vê-lo no braço e ouvir.</p>
+<div class="grade-diag" id="trilha"></div></section>
+<section id="v-tabela" role="tabpanel" aria-labelledby="aba-tabela" hidden>
+<p><label>Destacar uma nota: <select id="selNota"><option value="">todas</option></select></label></p>
+<div class="tab-rol"><table class="resumo" id="tabela"></table></div>
+<p class="como">Linhas = famílias de forma; colunas = casa do dedo 1; a cor é a da fundamental. Toque numa célula
+para abrir a posição no braço. Diminutos: cada casa vale por 4 nomes.</p></section>
+<section id="v-abertas" role="tabpanel" aria-labelledby="aba-abertas" hidden>
+<p class="suave">As 20 formas do dicionário com corda solta não deslizam pelo braço. Todas têm as mesmas notas que
+alguma família na casa 0: toque no botão para ver a sequência.</p>
+<div class="grade-diag" id="abertas"></div></section>
+<noscript><p class="aviso">As formas são desenhadas pelo navegador: ative o JavaScript, ou baixe as
+<a href="../downloads/">formas em PDF</a>.</p></noscript>
+</main>
+<footer class="rodape"><div class="wrap">
+Viola em Cores · <a href="../sobre/#direitos">© 2026 Maurício Rocha, todos os direitos reservados</a> ·
+<a href="../sobre/">Sobre</a> · <a href="../privacidade/">Privacidade</a> · <a href="../glossario/">Glossário</a> ·
+<a href="../apoie/">Apoie o projeto</a><br>
+Viola caipira em <span data-afin="nome">cebolão em Mi</span>: <span data-afin="pares">5º par Si · 4º Mi · 3º Sol# · 2º Si · 1º Mi</span>.
+</div></footer>
+</body>
+</html>

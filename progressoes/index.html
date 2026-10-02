@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="pt-BR" data-raiz="../">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Minhas progressões · Viola em Cores</title>
+<meta name="description" content="Monte a sequência de acordes de uma música e veja as formas escolhidas na viola caipira em 3 regiões do braço, com o som. Guarda no aparelho e exporta como texto ou link, sem conta.">
+<meta name="author" content="Maurício Rocha">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#1D1D1F">
+<link rel="canonical" href="https://mauriciomrocha.github.io/violaemcores/progressoes/">
+<meta property="og:url" content="https://mauriciomrocha.github.io/violaemcores/progressoes/">
+<meta property="og:site_name" content="Viola em Cores">
+<meta property="og:title" content="Minhas progressões · Viola em Cores">
+<meta property="og:description" content="Monte a sequência de acordes de uma música e veja as formas escolhidas na viola caipira em 3 regiões do braço, com o som. Guarda no aparelho e exporta como texto ou link, sem conta.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:image" content="https://mauriciomrocha.github.io/violaemcores/icones/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Viola em Cores: as 12 notas em cores sobre o braço da viola">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../icones/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icones/apple-touch-icon.png">
+<link rel="manifest" href="../manifest.webmanifest">
+<link rel="stylesheet" href="../css/estilo.css">
+<script>try{var t=localStorage.getItem("vc.tema");if(t==="claro"||t==="escuro")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+<script>document.documentElement.classList.add("js-pendente")</script>
+<script src="../js/comum.js" defer></script>
+<script src="../js/caminhos.js" defer></script>
+<script src="../js/progressoes.js" defer></script>
+</head>
+<body>
+<a class="pular" href="#conteudo">Pular para o conteúdo</a>
+<header class="topo"><div class="topo-in">
+<a class="marca" href="../"><img src="../icones/favicon.svg" alt="" width="26" height="26">Viola em Cores</a>
+<form class="busca-topo" role="search" action="../busca/" method="get">
+<input type="search" name="q" placeholder="Buscar acorde: Lá7, Bm…" aria-label="Buscar acorde (ex.: Lá7, A7, Si menor, Bm)" autocomplete="off">
+<button type="submit" aria-label="Buscar">🔍</button>
+</form>
+<label class="afin-sel"><span class="sr">Afinação</span><select id="afinacao" title="Afinação da viola"><option value="cebolao-mi">Cebolão em Mi</option><option value="cebolao-re">Cebolão em Ré</option></select></label>
+<button class="botao-tema" id="tema" type="button" aria-label="Tema (trocar)">◐</button>
+<a class="botao-apoie" href="../apoie/" aria-label="Apoie o projeto"><span aria-hidden="true">♥</span></a>
+<nav aria-label="Seções do site"><ul class="nav"><li><a href="../dicionario/">Dicionário</a></li><li><a href="../formas/">Formas</a></li><li><a href="../tons/">Tons</a></li><li><a href="../progressoes/" aria-current="page">Progressões</a></li><li><a href="../identificar/">Identificar</a></li><li><a href="../treino/">Treino</a></li><li><a href="../glossario/">Glossário</a></li><li><a href="../downloads/">Downloads</a></li><li><a href="../sobre/">Sobre</a></li><li><a href="../apoie/" class="apoie">Apoie <span aria-hidden="true">♥</span></a></li></ul></nav>
+</div></header>
+<div class="cab"><div class="wrap"><h1>Minhas progressões</h1><p class="sub">Escreva os acordes da música: o algoritmo dos tons escolhe as formas</p></div></div>
+<div class="painel-ctl"><div class="wrap">
+<form id="formProg" autocomplete="off">
+<div class="ctl">
+<label class="grupo"><span class="rot">Nome</span><input id="nomeProg" type="text" aria-label="Nome da progressão" placeholder="ex.: Pagode em Mi" style="width:13em"></label>
+<label class="grupo" style="flex:1;min-width:260px"><span class="rot">Acordes</span><input id="seqProg" type="text" aria-label="Acordes"
+ placeholder="Mi – Mi7 – Lá – Si7 – Mi" aria-describedby="ajudaSeq" style="flex:1;min-width:0"></label>
+</div>
+<p class="suave" id="ajudaSeq" style="margin:4px 0">Separe os acordes com espaço, traço ou vírgula: <b>Mi Mi7 Lá Si7 Mi</b>
+ou <b>E – E7 – A – B7 – E</b>. Vale nome ou cifra: Sib7M, F#m7, Dó diminuto…</p>
+<div class="ctl">
+<label class="grupo"><span class="rot">Tônica</span><select id="tonica" aria-label="Tônica" aria-describedby="ajudaTonica"></select></label>
+<button class="btn" type="submit">Escolher as formas</button>
+<button class="btn sec" type="button" id="guardar">Guardar</button>
+<button class="btn sec" type="button" id="nova">Nova</button>
+<span class="suave" id="estado" role="status"></span>
+</div>
+<p class="suave" id="ajudaTonica" style="margin:4px 0">A tônica (em geral o 1º acorde) ganha preferência pela forma com
+corda solta na região 1, como nos tons.</p>
+</form>
+<div id="lidos" class="grupo" aria-live="polite"></div>
+<div class="grupo" role="group" aria-label="Exemplos" id="exemplos"><span class="rot">Exemplos</span><button class="chip" type="button" data-ex="Mi – Mi7 – Lá – Si7 – Mi">Mi – Mi7 – Lá – Si7 – Mi</button><button class="chip" type="button" data-ex="Lá – Ré – Mi7 – Lá">Lá – Ré – Mi7 – Lá</button><button class="chip" type="button" data-ex="Ré – Sol – Lá7 – Ré">Ré – Sol – Lá7 – Ré</button><button class="chip" type="button" data-ex="Mi – Dó#m – Fá#m – Si7">Mi – Dó#m – Fá#m – Si7</button><button class="chip" type="button" data-ex="Lám – Rém – Mi7 – Lám">Lám – Rém – Mi7 – Lám</button></div>
+</div></div>
+<main id="conteudo" class="wrap">
+<section aria-labelledby="hFormas">
+<h2 id="hFormas">As formas escolhidas</h2>
+<div class="abas" role="tablist" aria-label="Região do braço" id="abasReg"></div>
+<div id="avisoCaminho"></div>
+<div class="sequencia" id="sequencia" role="group" aria-label="Acordes da progressão" style="min-height:300px"></div>
+<div class="tocar">
+<button class="btn" id="tocarProg" type="button">▶ Tocar a progressão</button>
+<label class="andamento">Andamento <input type="range" id="bpm" min="40" max="160" step="4" value="84" aria-describedby="bpmVal"> <span id="bpmVal">84 bpm</span></label> <span class="batida" id="batida" aria-hidden="true"></span>
+<label><input type="checkbox" id="repetir" checked> repetir</label>
+</div>
+</section>
+<section aria-labelledby="hBraco">
+<h2 id="hBraco">No braço</h2>
+<div class="painel">
+<div class="topo-braco"><div class="nome-grande" id="nomeGrande" aria-live="polite"></div>
+<div class="nav-braco"><button id="ant" type="button" aria-label="Acorde anterior">◀</button>
+<button id="ouvirAtual" type="button" class="btn sec" aria-label="Ouvir o acorde">▶ Ouvir</button>
+<button id="prox" type="button" aria-label="Próximo acorde">▶</button></div></div>
+<div id="braco" class="braco-caixa"></div>
+<div class="notas" id="notas"></div>
+<p class="detalhe" id="detalhe"></p>
+</div>
+</section>
+<div class="colunas-ident">
+<section aria-labelledby="hGuardadas"><h2 id="hGuardadas">Guardadas neste aparelho</h2>
+<ul class="lista-links" id="lista"></ul>
+<p class="suave">Ficam só no navegador deste aparelho: sem conta e sem servidor. Para levar a outro aparelho ou mandar
+para alguém, use o texto ou o link ao lado.</p></section>
+<section aria-labelledby="hLevar"><h2 id="hLevar">Exportar e importar</h2>
+<label for="textoExp" class="rotulo">Esta progressão em texto</label>
+<textarea id="textoExp" rows="6" readonly style="width:100%"></textarea>
+<p><button class="btn sec" type="button" id="copiarTexto">Copiar texto</button>
+<button class="btn sec" type="button" id="copiarLink">Copiar link</button>
+<button class="btn sec" type="button" id="compartilhar" hidden>Compartilhar</button></p>
+<label for="textoImp" class="rotulo">Colar um texto ou link recebido</label>
+<textarea id="textoImp" rows="4" style="width:100%" placeholder="Cole aqui o texto ou o link de uma progressão"></textarea>
+<p><button class="btn sec" type="button" id="importar">Abrir</button> <span class="erro" id="erroImp" role="alert"></span></p>
+</section>
+</div>
+<noscript><p class="aviso">As progressões são calculadas no navegador: ative o JavaScript.</p></noscript>
+</main>
+<footer class="rodape"><div class="wrap">
+Viola em Cores · <a href="../sobre/#direitos">© 2026 Maurício Rocha, todos os direitos reservados</a> ·
+<a href="../sobre/">Sobre</a> · <a href="../privacidade/">Privacidade</a> · <a href="../glossario/">Glossário</a> ·
+<a href="../apoie/">Apoie o projeto</a><br>
+Viola caipira em <span data-afin="nome">cebolão em Mi</span>: <span data-afin="pares">5º par Si · 4º Mi · 3º Sol# · 2º Si · 1º Mi</span>.
+</div></footer>
+</body>
+</html>
