@@ -1,0 +1,2 @@
+# app-ads.txt de violaemcores.com.br (o AdMob confere este arquivo na raiz do domínio do site do desenvolvedor).
+google.com, pub-5129679684985024, DIRECT, f08c47fec0942fa0
