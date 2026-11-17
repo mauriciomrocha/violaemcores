@@ -1,0 +1,97 @@
+{
+ "versao_esquema": 1,
+ "padrao": "cebolao-mi",
+ "afinacoes": [
+  {
+   "id": "cebolao-mi",
+   "nome": "Cebolão em Mi",
+   "padrao": true,
+   "pasta": "",
+   "pares": [
+    {
+     "par": "5",
+     "pt": "Si",
+     "cifra": "B",
+     "pc": 11,
+     "midi": 47
+    },
+    {
+     "par": "4",
+     "pt": "Mi",
+     "cifra": "E",
+     "pc": 4,
+     "midi": 52
+    },
+    {
+     "par": "3",
+     "pt": "Sol#",
+     "cifra": "G#",
+     "pc": 8,
+     "midi": 56
+    },
+    {
+     "par": "2",
+     "pt": "Si",
+     "cifra": "B",
+     "pc": 11,
+     "midi": 59
+    },
+    {
+     "par": "1",
+     "pt": "Mi",
+     "cifra": "E",
+     "pc": 4,
+     "midi": 64
+    }
+   ],
+   "transposicao": null
+  },
+  {
+   "id": "cebolao-re",
+   "nome": "Cebolão em Ré",
+   "padrao": false,
+   "pasta": "cebolao-re/",
+   "pares": [
+    {
+     "par": "5",
+     "pt": "Lá",
+     "cifra": "A",
+     "pc": 9,
+     "midi": 45
+    },
+    {
+     "par": "4",
+     "pt": "Ré",
+     "cifra": "D",
+     "pc": 2,
+     "midi": 50
+    },
+    {
+     "par": "3",
+     "pt": "Fá#",
+     "cifra": "F#",
+     "pc": 6,
+     "midi": 54
+    },
+    {
+     "par": "2",
+     "pt": "Lá",
+     "cifra": "A",
+     "pc": 9,
+     "midi": 57
+    },
+    {
+     "par": "1",
+     "pt": "Ré",
+     "cifra": "D",
+     "pc": 2,
+     "midi": 62
+    }
+   ],
+   "transposicao": {
+    "de": "cebolao-mi",
+    "semitons": -2
+   }
+  }
+ ]
+}

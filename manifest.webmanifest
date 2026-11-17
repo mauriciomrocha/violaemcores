@@ -1,0 +1,31 @@
+{
+ "name": "Viola em Cores",
+ "short_name": "Viola em Cores",
+ "lang": "pt-BR",
+ "dir": "ltr",
+ "description": "Acordes da viola caipira no cebolão em Mi, com cada nota numa cor: dicionário de acordes, formas móveis pelo braço e o campo harmônico dos 24 tons com progressões.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#FAFAF7",
+ "theme_color": "#1D1D1F",
+ "icons": [
+  {
+   "src": "icones/icone-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icones/icone-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icones/icone-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

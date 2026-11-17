@@ -1,0 +1,10724 @@
+{
+ "versao_esquema": 1,
+ "casas": [
+  0,
+  12
+ ],
+ "familias": [
+  {
+   "id": "fam-M-A",
+   "tipo": "M",
+   "letra": "A",
+   "nome": "Maior A",
+   "descricao": "pestana em 4 pares, 5 pares, fundamental no 3º par",
+   "dica": "o nome do acorde é a nota do 3º par",
+   "forma": [
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": [
+    0,
+    "4",
+    "1"
+   ],
+   "fundamental": "3",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      2,
+      0,
+      1,
+      2,
+      0
+     ],
+     "dedos": [
+      2,
+      null,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 9,
+     "cifra": "A",
+     "cifra_alt": "",
+     "nome": "Lá maior",
+     "nomes": [
+      "A"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      3,
+      1,
+      2,
+      3,
+      1
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      1,
+      "4",
+      "1"
+     ],
+     "casa": 1,
+     "raiz": 10,
+     "cifra": "A#",
+     "cifra_alt": "Bb",
+     "nome": "Lá# maior",
+     "nomes": [
+      "A#"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      4,
+      2,
+      3,
+      4,
+      2
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      2,
+      "4",
+      "1"
+     ],
+     "casa": 2,
+     "raiz": 11,
+     "cifra": "B",
+     "cifra_alt": "",
+     "nome": "Si maior",
+     "nomes": [
+      "B"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      5,
+      3,
+      4,
+      5,
+      3
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      3,
+      "4",
+      "1"
+     ],
+     "casa": 3,
+     "raiz": 0,
+     "cifra": "C",
+     "cifra_alt": "",
+     "nome": "Dó maior",
+     "nomes": [
+      "C"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      6,
+      4,
+      5,
+      6,
+      4
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      4,
+      "4",
+      "1"
+     ],
+     "casa": 4,
+     "raiz": 1,
+     "cifra": "C#",
+     "cifra_alt": "Db",
+     "nome": "Dó# maior",
+     "nomes": [
+      "C#"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      7,
+      5,
+      6,
+      7,
+      5
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      5,
+      "4",
+      "1"
+     ],
+     "casa": 5,
+     "raiz": 2,
+     "cifra": "D",
+     "cifra_alt": "",
+     "nome": "Ré maior",
+     "nomes": [
+      "D"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      8,
+      6,
+      7,
+      8,
+      6
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      6,
+      "4",
+      "1"
+     ],
+     "casa": 6,
+     "raiz": 3,
+     "cifra": "D#",
+     "cifra_alt": "Eb",
+     "nome": "Ré# maior",
+     "nomes": [
+      "D#"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      9,
+      7,
+      8,
+      9,
+      7
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      7,
+      "4",
+      "1"
+     ],
+     "casa": 7,
+     "raiz": 4,
+     "cifra": "E",
+     "cifra_alt": "",
+     "nome": "Mi maior",
+     "nomes": [
+      "E"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      10,
+      8,
+      9,
+      10,
+      8
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      8,
+      "4",
+      "1"
+     ],
+     "casa": 8,
+     "raiz": 5,
+     "cifra": "F",
+     "cifra_alt": "",
+     "nome": "Fá maior",
+     "nomes": [
+      "F"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      11,
+      9,
+      10,
+      11,
+      9
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      9,
+      "4",
+      "1"
+     ],
+     "casa": 9,
+     "raiz": 6,
+     "cifra": "F#",
+     "cifra_alt": "Gb",
+     "nome": "Fá# maior",
+     "nomes": [
+      "F#"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      12,
+      10,
+      11,
+      12,
+      10
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      10,
+      "4",
+      "1"
+     ],
+     "casa": 10,
+     "raiz": 7,
+     "cifra": "G",
+     "cifra_alt": "",
+     "nome": "Sol maior",
+     "nomes": [
+      "G"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      13,
+      11,
+      12,
+      13,
+      11
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      11,
+      "4",
+      "1"
+     ],
+     "casa": 11,
+     "raiz": 8,
+     "cifra": "G#",
+     "cifra_alt": "Ab",
+     "nome": "Sol# maior",
+     "nomes": [
+      "G#"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      14,
+      12,
+      13,
+      14,
+      12
+     ],
+     "dedos": [
+      3,
+      1,
+      2,
+      4,
+      1
+     ],
+     "pestana": [
+      12,
+      "4",
+      "1"
+     ],
+     "casa": 12,
+     "raiz": 9,
+     "cifra": "A",
+     "cifra_alt": "",
+     "nome": "Lá maior",
+     "nomes": [
+      "A"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-M-B",
+   "tipo": "M",
+   "letra": "B",
+   "nome": "Maior B",
+   "descricao": "pestana em 4 pares, sem o 5º par, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": [
+    0,
+    "4",
+    "1"
+   ],
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      0,
+      0,
+      0
+     ],
+     "dedos": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 4,
+     "cifra": "E",
+     "cifra_alt": "",
+     "nome": "Mi maior",
+     "nomes": [
+      "E"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      1,
+      1,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      1,
+      "4",
+      "1"
+     ],
+     "casa": 1,
+     "raiz": 5,
+     "cifra": "F",
+     "cifra_alt": "",
+     "nome": "Fá maior",
+     "nomes": [
+      "F"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      2,
+      2,
+      2
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      2,
+      "4",
+      "1"
+     ],
+     "casa": 2,
+     "raiz": 6,
+     "cifra": "F#",
+     "cifra_alt": "Gb",
+     "nome": "Fá# maior",
+     "nomes": [
+      "F#"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      3,
+      3,
+      3
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      3,
+      "4",
+      "1"
+     ],
+     "casa": 3,
+     "raiz": 7,
+     "cifra": "G",
+     "cifra_alt": "",
+     "nome": "Sol maior",
+     "nomes": [
+      "G"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      4,
+      4,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      4,
+      "4",
+      "1"
+     ],
+     "casa": 4,
+     "raiz": 8,
+     "cifra": "G#",
+     "cifra_alt": "Ab",
+     "nome": "Sol# maior",
+     "nomes": [
+      "G#"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      5,
+      5,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      5,
+      "4",
+      "1"
+     ],
+     "casa": 5,
+     "raiz": 9,
+     "cifra": "A",
+     "cifra_alt": "",
+     "nome": "Lá maior",
+     "nomes": [
+      "A"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      6,
+      6,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      6,
+      "4",
+      "1"
+     ],
+     "casa": 6,
+     "raiz": 10,
+     "cifra": "A#",
+     "cifra_alt": "Bb",
+     "nome": "Lá# maior",
+     "nomes": [
+      "A#"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      7,
+      7,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      7,
+      "4",
+      "1"
+     ],
+     "casa": 7,
+     "raiz": 11,
+     "cifra": "B",
+     "cifra_alt": "",
+     "nome": "Si maior",
+     "nomes": [
+      "B"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      8,
+      8,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      8,
+      "4",
+      "1"
+     ],
+     "casa": 8,
+     "raiz": 0,
+     "cifra": "C",
+     "cifra_alt": "",
+     "nome": "Dó maior",
+     "nomes": [
+      "C"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      9,
+      9,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      9,
+      "4",
+      "1"
+     ],
+     "casa": 9,
+     "raiz": 1,
+     "cifra": "C#",
+     "cifra_alt": "Db",
+     "nome": "Dó# maior",
+     "nomes": [
+      "C#"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      10,
+      10,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      10,
+      "4",
+      "1"
+     ],
+     "casa": 10,
+     "raiz": 2,
+     "cifra": "D",
+     "cifra_alt": "",
+     "nome": "Ré maior",
+     "nomes": [
+      "D"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      11,
+      11,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      11,
+      "4",
+      "1"
+     ],
+     "casa": 11,
+     "raiz": 3,
+     "cifra": "D#",
+     "cifra_alt": "Eb",
+     "nome": "Ré# maior",
+     "nomes": [
+      "D#"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      12,
+      12,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      1,
+      1
+     ],
+     "pestana": [
+      12,
+      "4",
+      "1"
+     ],
+     "casa": 12,
+     "raiz": 4,
+     "cifra": "E",
+     "cifra_alt": "",
+     "nome": "Mi maior",
+     "nomes": [
+      "E"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-M-C",
+   "tipo": "M",
+   "letra": "C",
+   "nome": "Maior C",
+   "descricao": "sem pestana, sem o 1º par, fundamental no 5º par",
+   "dica": "o nome do acorde é a nota do 5º par",
+   "forma": [
+    [
+     2,
+     3
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ],
+    null
+   ],
+   "pestana_rel": null,
+   "fundamental": "5",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      2,
+      1,
+      0,
+      2,
+      -1
+     ],
+     "dedos": [
+      2,
+      1,
+      null,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 1,
+     "cifra": "C#",
+     "cifra_alt": "Db",
+     "nome": "Dó# maior",
+     "nomes": [
+      "C#"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      3,
+      2,
+      1,
+      3,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 2,
+     "cifra": "D",
+     "cifra_alt": "",
+     "nome": "Ré maior",
+     "nomes": [
+      "D"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      4,
+      3,
+      2,
+      4,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 3,
+     "cifra": "D#",
+     "cifra_alt": "Eb",
+     "nome": "Ré# maior",
+     "nomes": [
+      "D#"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      5,
+      4,
+      3,
+      5,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 4,
+     "cifra": "E",
+     "cifra_alt": "",
+     "nome": "Mi maior",
+     "nomes": [
+      "E"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      6,
+      5,
+      4,
+      6,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 5,
+     "cifra": "F",
+     "cifra_alt": "",
+     "nome": "Fá maior",
+     "nomes": [
+      "F"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      7,
+      6,
+      5,
+      7,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 6,
+     "cifra": "F#",
+     "cifra_alt": "Gb",
+     "nome": "Fá# maior",
+     "nomes": [
+      "F#"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      8,
+      7,
+      6,
+      8,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 7,
+     "cifra": "G",
+     "cifra_alt": "",
+     "nome": "Sol maior",
+     "nomes": [
+      "G"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      9,
+      8,
+      7,
+      9,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 8,
+     "cifra": "G#",
+     "cifra_alt": "Ab",
+     "nome": "Sol# maior",
+     "nomes": [
+      "G#"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      10,
+      9,
+      8,
+      10,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 9,
+     "cifra": "A",
+     "cifra_alt": "",
+     "nome": "Lá maior",
+     "nomes": [
+      "A"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      11,
+      10,
+      9,
+      11,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 10,
+     "cifra": "A#",
+     "cifra_alt": "Bb",
+     "nome": "Lá# maior",
+     "nomes": [
+      "A#"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      12,
+      11,
+      10,
+      12,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 11,
+     "cifra": "B",
+     "cifra_alt": "",
+     "nome": "Si maior",
+     "nomes": [
+      "B"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      13,
+      12,
+      11,
+      13,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 0,
+     "cifra": "C",
+     "cifra_alt": "",
+     "nome": "Dó maior",
+     "nomes": [
+      "C"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      14,
+      13,
+      12,
+      14,
+      -1
+     ],
+     "dedos": [
+      3,
+      2,
+      1,
+      4,
+      null
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 1,
+     "cifra": "C#",
+     "cifra_alt": "Db",
+     "nome": "Dó# maior",
+     "nomes": [
+      "C#"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-M-D",
+   "tipo": "M",
+   "letra": "D",
+   "nome": "Maior D",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 2º par",
+   "dica": "o nome do acorde é a nota do 2º par",
+   "forma": [
+    null,
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     1,
+     3
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "2",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      1,
+      0,
+      2,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      null,
+      3,
+      2
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 1,
+     "cifra": "C#",
+     "cifra_alt": "Db",
+     "nome": "Dó# maior",
+     "nomes": [
+      "C#"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      1,
+      3,
+      2
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 2,
+     "cifra": "D",
+     "cifra_alt": "",
+     "nome": "Ré maior",
+     "nomes": [
+      "D"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      4,
+      3
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 3,
+     "cifra": "D#",
+     "cifra_alt": "Eb",
+     "nome": "Ré# maior",
+     "nomes": [
+      "D#"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      5,
+      4
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 4,
+     "cifra": "E",
+     "cifra_alt": "",
+     "nome": "Mi maior",
+     "nomes": [
+      "E"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      6,
+      5
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 5,
+     "cifra": "F",
+     "cifra_alt": "",
+     "nome": "Fá maior",
+     "nomes": [
+      "F"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      7,
+      6
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 6,
+     "cifra": "F#",
+     "cifra_alt": "Gb",
+     "nome": "Fá# maior",
+     "nomes": [
+      "F#"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      8,
+      7
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 7,
+     "cifra": "G",
+     "cifra_alt": "",
+     "nome": "Sol maior",
+     "nomes": [
+      "G"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      9,
+      8
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 8,
+     "cifra": "G#",
+     "cifra_alt": "Ab",
+     "nome": "Sol# maior",
+     "nomes": [
+      "G#"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      10,
+      9
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 9,
+     "cifra": "A",
+     "cifra_alt": "",
+     "nome": "Lá maior",
+     "nomes": [
+      "A"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      11,
+      10
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 10,
+     "cifra": "A#",
+     "cifra_alt": "Bb",
+     "nome": "Lá# maior",
+     "nomes": [
+      "A#"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      12,
+      11
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 11,
+     "cifra": "B",
+     "cifra_alt": "",
+     "nome": "Si maior",
+     "nomes": [
+      "B"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      13,
+      12
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 0,
+     "cifra": "C",
+     "cifra_alt": "",
+     "nome": "Dó maior",
+     "nomes": [
+      "C"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      14,
+      13
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      4,
+      3
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 1,
+     "cifra": "C#",
+     "cifra_alt": "Db",
+     "nome": "Dó# maior",
+     "nomes": [
+      "C#"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-m-A",
+   "tipo": "m",
+   "letra": "A",
+   "nome": "Menor A",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 3º par",
+   "dica": "o nome do acorde é a nota do 3º par",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     0,
+     2
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "3",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      1,
+      1,
+      0
+     ],
+     "dedos": [
+      null,
+      null,
+      1,
+      2,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 9,
+     "cifra": "Am",
+     "cifra_alt": "",
+     "nome": "Lá menor",
+     "nomes": [
+      "Am"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      2,
+      2,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 10,
+     "cifra": "A#m",
+     "cifra_alt": "Bbm",
+     "nome": "Lá# menor",
+     "nomes": [
+      "A#m"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      3,
+      3,
+      2
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 11,
+     "cifra": "Bm",
+     "cifra_alt": "",
+     "nome": "Si menor",
+     "nomes": [
+      "Bm"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      4,
+      4,
+      3
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 0,
+     "cifra": "Cm",
+     "cifra_alt": "",
+     "nome": "Dó menor",
+     "nomes": [
+      "Cm"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      5,
+      5,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 1,
+     "cifra": "C#m",
+     "cifra_alt": "Dbm",
+     "nome": "Dó# menor",
+     "nomes": [
+      "C#m"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      6,
+      6,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 2,
+     "cifra": "Dm",
+     "cifra_alt": "",
+     "nome": "Ré menor",
+     "nomes": [
+      "Dm"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      7,
+      7,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 3,
+     "cifra": "D#m",
+     "cifra_alt": "Ebm",
+     "nome": "Ré# menor",
+     "nomes": [
+      "D#m"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      8,
+      8,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 4,
+     "cifra": "Em",
+     "cifra_alt": "",
+     "nome": "Mi menor",
+     "nomes": [
+      "Em"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      9,
+      9,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 5,
+     "cifra": "Fm",
+     "cifra_alt": "",
+     "nome": "Fá menor",
+     "nomes": [
+      "Fm"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      10,
+      10,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 6,
+     "cifra": "F#m",
+     "cifra_alt": "Gbm",
+     "nome": "Fá# menor",
+     "nomes": [
+      "F#m"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      11,
+      11,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 7,
+     "cifra": "Gm",
+     "cifra_alt": "",
+     "nome": "Sol menor",
+     "nomes": [
+      "Gm"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      12,
+      12,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 8,
+     "cifra": "G#m",
+     "cifra_alt": "Abm",
+     "nome": "Sol# menor",
+     "nomes": [
+      "G#m"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      13,
+      13,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      4,
+      2
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 9,
+     "cifra": "Am",
+     "cifra_alt": "",
+     "nome": "Lá menor",
+     "nomes": [
+      "Am"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-m-B",
+   "tipo": "m",
+   "letra": "B",
+   "nome": "Menor B",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    null,
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      1,
+      0,
+      1,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      null,
+      2,
+      3
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 5,
+     "cifra": "Fm",
+     "cifra_alt": "",
+     "nome": "Fá menor",
+     "nomes": [
+      "Fm"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      1,
+      2,
+      2
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 6,
+     "cifra": "F#m",
+     "cifra_alt": "Gbm",
+     "nome": "Fá# menor",
+     "nomes": [
+      "F#m"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      3,
+      3
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 7,
+     "cifra": "Gm",
+     "cifra_alt": "",
+     "nome": "Sol menor",
+     "nomes": [
+      "Gm"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      4,
+      4
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 8,
+     "cifra": "G#m",
+     "cifra_alt": "Abm",
+     "nome": "Sol# menor",
+     "nomes": [
+      "G#m"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      5,
+      5
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 9,
+     "cifra": "Am",
+     "cifra_alt": "",
+     "nome": "Lá menor",
+     "nomes": [
+      "Am"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      6,
+      6
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 10,
+     "cifra": "A#m",
+     "cifra_alt": "Bbm",
+     "nome": "Lá# menor",
+     "nomes": [
+      "A#m"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      7,
+      7
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 11,
+     "cifra": "Bm",
+     "cifra_alt": "",
+     "nome": "Si menor",
+     "nomes": [
+      "Bm"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      8,
+      8
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 0,
+     "cifra": "Cm",
+     "cifra_alt": "",
+     "nome": "Dó menor",
+     "nomes": [
+      "Cm"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      9,
+      9
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 1,
+     "cifra": "C#m",
+     "cifra_alt": "Dbm",
+     "nome": "Dó# menor",
+     "nomes": [
+      "C#m"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      10,
+      10
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 2,
+     "cifra": "Dm",
+     "cifra_alt": "",
+     "nome": "Ré menor",
+     "nomes": [
+      "Dm"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      11,
+      11
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 3,
+     "cifra": "D#m",
+     "cifra_alt": "Ebm",
+     "nome": "Ré# menor",
+     "nomes": [
+      "D#m"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      12,
+      12
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 4,
+     "cifra": "Em",
+     "cifra_alt": "",
+     "nome": "Mi menor",
+     "nomes": [
+      "Em"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      13,
+      13
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 5,
+     "cifra": "Fm",
+     "cifra_alt": "",
+     "nome": "Fá menor",
+     "nomes": [
+      "Fm"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-m-C",
+   "tipo": "m",
+   "letra": "C",
+   "nome": "Menor C",
+   "descricao": "pestana em 4 pares, sem o 5º par, fundamental no 2º par",
+   "dica": "o nome do acorde é a nota do 2º par",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": [
+    0,
+    "4",
+    "1"
+   ],
+   "fundamental": "2",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      0,
+      2,
+      0
+     ],
+     "dedos": [
+      null,
+      null,
+      null,
+      2,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 1,
+     "cifra": "C#m",
+     "cifra_alt": "Dbm",
+     "nome": "Dó# menor",
+     "nomes": [
+      "C#m"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      1,
+      3,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      1,
+      "4",
+      "1"
+     ],
+     "casa": 1,
+     "raiz": 2,
+     "cifra": "Dm",
+     "cifra_alt": "",
+     "nome": "Ré menor",
+     "nomes": [
+      "Dm"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      2,
+      4,
+      2
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      2,
+      "4",
+      "1"
+     ],
+     "casa": 2,
+     "raiz": 3,
+     "cifra": "D#m",
+     "cifra_alt": "Ebm",
+     "nome": "Ré# menor",
+     "nomes": [
+      "D#m"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      3,
+      5,
+      3
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      3,
+      "4",
+      "1"
+     ],
+     "casa": 3,
+     "raiz": 4,
+     "cifra": "Em",
+     "cifra_alt": "",
+     "nome": "Mi menor",
+     "nomes": [
+      "Em"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      4,
+      6,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      4,
+      "4",
+      "1"
+     ],
+     "casa": 4,
+     "raiz": 5,
+     "cifra": "Fm",
+     "cifra_alt": "",
+     "nome": "Fá menor",
+     "nomes": [
+      "Fm"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      5,
+      7,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      5,
+      "4",
+      "1"
+     ],
+     "casa": 5,
+     "raiz": 6,
+     "cifra": "F#m",
+     "cifra_alt": "Gbm",
+     "nome": "Fá# menor",
+     "nomes": [
+      "F#m"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      6,
+      8,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      6,
+      "4",
+      "1"
+     ],
+     "casa": 6,
+     "raiz": 7,
+     "cifra": "Gm",
+     "cifra_alt": "",
+     "nome": "Sol menor",
+     "nomes": [
+      "Gm"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      7,
+      9,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      7,
+      "4",
+      "1"
+     ],
+     "casa": 7,
+     "raiz": 8,
+     "cifra": "G#m",
+     "cifra_alt": "Abm",
+     "nome": "Sol# menor",
+     "nomes": [
+      "G#m"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      8,
+      10,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      8,
+      "4",
+      "1"
+     ],
+     "casa": 8,
+     "raiz": 9,
+     "cifra": "Am",
+     "cifra_alt": "",
+     "nome": "Lá menor",
+     "nomes": [
+      "Am"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      9,
+      11,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      9,
+      "4",
+      "1"
+     ],
+     "casa": 9,
+     "raiz": 10,
+     "cifra": "A#m",
+     "cifra_alt": "Bbm",
+     "nome": "Lá# menor",
+     "nomes": [
+      "A#m"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      10,
+      12,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      10,
+      "4",
+      "1"
+     ],
+     "casa": 10,
+     "raiz": 11,
+     "cifra": "Bm",
+     "cifra_alt": "",
+     "nome": "Si menor",
+     "nomes": [
+      "Bm"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      11,
+      13,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      11,
+      "4",
+      "1"
+     ],
+     "casa": 11,
+     "raiz": 0,
+     "cifra": "Cm",
+     "cifra_alt": "",
+     "nome": "Dó menor",
+     "nomes": [
+      "Cm"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      12,
+      14,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      3,
+      1
+     ],
+     "pestana": [
+      12,
+      "4",
+      "1"
+     ],
+     "casa": 12,
+     "raiz": 1,
+     "cifra": "C#m",
+     "cifra_alt": "Dbm",
+     "nome": "Dó# menor",
+     "nomes": [
+      "C#m"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7-A",
+   "tipo": "7",
+   "letra": "A",
+   "nome": "Sétima A",
+   "descricao": "pestana em 5 pares, 5 pares, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": [
+    0,
+    "5",
+    "1"
+   ],
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 1,
+   "posicoes": [
+    {
+     "casas": [
+      0,
+      0,
+      0,
+      3,
+      0
+     ],
+     "dedos": [
+      null,
+      null,
+      null,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      1,
+      "5",
+      "1"
+     ],
+     "casa": 1,
+     "raiz": 5,
+     "cifra": "F7",
+     "cifra_alt": "",
+     "nome": "Fá com sétima",
+     "nomes": [
+      "F7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      2,
+      2,
+      2,
+      5,
+      2
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      2,
+      "5",
+      "1"
+     ],
+     "casa": 2,
+     "raiz": 6,
+     "cifra": "F#7",
+     "cifra_alt": "Gb7",
+     "nome": "Fá# com sétima",
+     "nomes": [
+      "F#7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      3,
+      3,
+      3,
+      6,
+      3
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      3,
+      "5",
+      "1"
+     ],
+     "casa": 3,
+     "raiz": 7,
+     "cifra": "G7",
+     "cifra_alt": "",
+     "nome": "Sol com sétima",
+     "nomes": [
+      "G7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      4,
+      4,
+      4,
+      7,
+      4
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      4,
+      "5",
+      "1"
+     ],
+     "casa": 4,
+     "raiz": 8,
+     "cifra": "G#7",
+     "cifra_alt": "Ab7",
+     "nome": "Sol# com sétima",
+     "nomes": [
+      "G#7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      5,
+      5,
+      5,
+      8,
+      5
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      5,
+      "5",
+      "1"
+     ],
+     "casa": 5,
+     "raiz": 9,
+     "cifra": "A7",
+     "cifra_alt": "",
+     "nome": "Lá com sétima",
+     "nomes": [
+      "A7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      6,
+      6,
+      6,
+      9,
+      6
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      6,
+      "5",
+      "1"
+     ],
+     "casa": 6,
+     "raiz": 10,
+     "cifra": "A#7",
+     "cifra_alt": "Bb7",
+     "nome": "Lá# com sétima",
+     "nomes": [
+      "A#7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      7,
+      7,
+      7,
+      10,
+      7
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      7,
+      "5",
+      "1"
+     ],
+     "casa": 7,
+     "raiz": 11,
+     "cifra": "B7",
+     "cifra_alt": "",
+     "nome": "Si com sétima",
+     "nomes": [
+      "B7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      8,
+      8,
+      8,
+      11,
+      8
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      8,
+      "5",
+      "1"
+     ],
+     "casa": 8,
+     "raiz": 0,
+     "cifra": "C7",
+     "cifra_alt": "",
+     "nome": "Dó com sétima",
+     "nomes": [
+      "C7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      9,
+      9,
+      9,
+      12,
+      9
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      9,
+      "5",
+      "1"
+     ],
+     "casa": 9,
+     "raiz": 1,
+     "cifra": "C#7",
+     "cifra_alt": "Db7",
+     "nome": "Dó# com sétima",
+     "nomes": [
+      "C#7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      10,
+      10,
+      10,
+      13,
+      10
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      10,
+      "5",
+      "1"
+     ],
+     "casa": 10,
+     "raiz": 2,
+     "cifra": "D7",
+     "cifra_alt": "",
+     "nome": "Ré com sétima",
+     "nomes": [
+      "D7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      11,
+      11,
+      11,
+      14,
+      11
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      11,
+      "5",
+      "1"
+     ],
+     "casa": 11,
+     "raiz": 3,
+     "cifra": "D#7",
+     "cifra_alt": "Eb7",
+     "nome": "Ré# com sétima",
+     "nomes": [
+      "D#7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      12,
+      12,
+      12,
+      15,
+      12
+     ],
+     "dedos": [
+      1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      12,
+      "5",
+      "1"
+     ],
+     "casa": 12,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7-B",
+   "tipo": "7",
+   "letra": "B",
+   "nome": "Sétima B",
+   "descricao": "sem pestana, sem o 5º par, sem fundamental (referência: 7ª no 2º par)",
+   "dica": "esta forma não tem a fundamental: o nome do acorde é 1 tom (2 casas) acima da nota do 2º par (que é a 7ª do acorde)",
+   "forma": [
+    null,
+    [
+     1,
+     3
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     2
+    ],
+    [
+     1,
+     4
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": null,
+   "referencia": {
+    "corda": "2",
+    "intervalo": 10,
+    "nome": "7ª"
+   },
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      1,
+      0,
+      0,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      null,
+      null,
+      2
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 1,
+     "cifra": "C#7",
+     "cifra_alt": "Db7",
+     "nome": "Dó# com sétima",
+     "nomes": [
+      "C#7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      1,
+      1,
+      2
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 2,
+     "cifra": "D7",
+     "cifra_alt": "",
+     "nome": "Ré com sétima",
+     "nomes": [
+      "D7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      2,
+      3
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 3,
+     "cifra": "D#7",
+     "cifra_alt": "Eb7",
+     "nome": "Ré# com sétima",
+     "nomes": [
+      "D#7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      3,
+      4
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      4,
+      5
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 5,
+     "cifra": "F7",
+     "cifra_alt": "",
+     "nome": "Fá com sétima",
+     "nomes": [
+      "F7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      5,
+      6
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 6,
+     "cifra": "F#7",
+     "cifra_alt": "Gb7",
+     "nome": "Fá# com sétima",
+     "nomes": [
+      "F#7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      6,
+      7
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 7,
+     "cifra": "G7",
+     "cifra_alt": "",
+     "nome": "Sol com sétima",
+     "nomes": [
+      "G7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      7,
+      8
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 8,
+     "cifra": "G#7",
+     "cifra_alt": "Ab7",
+     "nome": "Sol# com sétima",
+     "nomes": [
+      "G#7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      8,
+      9
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 9,
+     "cifra": "A7",
+     "cifra_alt": "",
+     "nome": "Lá com sétima",
+     "nomes": [
+      "A7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      9,
+      10
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 10,
+     "cifra": "A#7",
+     "cifra_alt": "Bb7",
+     "nome": "Lá# com sétima",
+     "nomes": [
+      "A#7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      10,
+      11
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 11,
+     "cifra": "B7",
+     "cifra_alt": "",
+     "nome": "Si com sétima",
+     "nomes": [
+      "B7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      11,
+      12
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 0,
+     "cifra": "C7",
+     "cifra_alt": "",
+     "nome": "Dó com sétima",
+     "nomes": [
+      "C7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      12,
+      13
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 1,
+     "cifra": "C#7",
+     "cifra_alt": "Db7",
+     "nome": "Dó# com sétima",
+     "nomes": [
+      "C#7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7-C",
+   "tipo": "7",
+   "letra": "C",
+   "nome": "Sétima C",
+   "descricao": "sem pestana, sem o 1º par, fundamental no 3º par",
+   "dica": "o nome do acorde é a nota do 3º par",
+   "forma": [
+    [
+     1,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     3
+    ],
+    null
+   ],
+   "pestana_rel": null,
+   "fundamental": "3",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      1,
+      2,
+      0,
+      1,
+      -1
+     ],
+     "dedos": [
+      1,
+      3,
+      null,
+      2,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 8,
+     "cifra": "G#7",
+     "cifra_alt": "Ab7",
+     "nome": "Sol# com sétima",
+     "nomes": [
+      "G#7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      2,
+      3,
+      1,
+      2,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 9,
+     "cifra": "A7",
+     "cifra_alt": "",
+     "nome": "Lá com sétima",
+     "nomes": [
+      "A7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      3,
+      4,
+      2,
+      3,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 10,
+     "cifra": "A#7",
+     "cifra_alt": "Bb7",
+     "nome": "Lá# com sétima",
+     "nomes": [
+      "A#7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      4,
+      5,
+      3,
+      4,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 11,
+     "cifra": "B7",
+     "cifra_alt": "",
+     "nome": "Si com sétima",
+     "nomes": [
+      "B7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      5,
+      6,
+      4,
+      5,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 0,
+     "cifra": "C7",
+     "cifra_alt": "",
+     "nome": "Dó com sétima",
+     "nomes": [
+      "C7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      6,
+      7,
+      5,
+      6,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 1,
+     "cifra": "C#7",
+     "cifra_alt": "Db7",
+     "nome": "Dó# com sétima",
+     "nomes": [
+      "C#7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      7,
+      8,
+      6,
+      7,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 2,
+     "cifra": "D7",
+     "cifra_alt": "",
+     "nome": "Ré com sétima",
+     "nomes": [
+      "D7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      8,
+      9,
+      7,
+      8,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 3,
+     "cifra": "D#7",
+     "cifra_alt": "Eb7",
+     "nome": "Ré# com sétima",
+     "nomes": [
+      "D#7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      9,
+      10,
+      8,
+      9,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      10,
+      11,
+      9,
+      10,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 5,
+     "cifra": "F7",
+     "cifra_alt": "",
+     "nome": "Fá com sétima",
+     "nomes": [
+      "F7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      11,
+      12,
+      10,
+      11,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 6,
+     "cifra": "F#7",
+     "cifra_alt": "Gb7",
+     "nome": "Fá# com sétima",
+     "nomes": [
+      "F#7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      12,
+      13,
+      11,
+      12,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 7,
+     "cifra": "G7",
+     "cifra_alt": "",
+     "nome": "Sol com sétima",
+     "nomes": [
+      "G7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      13,
+      14,
+      12,
+      13,
+      -1
+     ],
+     "dedos": [
+      2,
+      4,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 8,
+     "cifra": "G#7",
+     "cifra_alt": "Ab7",
+     "nome": "Sol# com sétima",
+     "nomes": [
+      "G#7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7-D",
+   "tipo": "7",
+   "letra": "D",
+   "nome": "Sétima D",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 2º par",
+   "dica": "o nome do acorde é a nota do 2º par",
+   "forma": [
+    null,
+    [
+     3,
+     4
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "2",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      1,
+      0
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      1,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 0,
+     "cifra": "C7",
+     "cifra_alt": "",
+     "nome": "Dó com sétima",
+     "nomes": [
+      "C7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      2,
+      1
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 1,
+     "cifra": "C#7",
+     "cifra_alt": "Db7",
+     "nome": "Dó# com sétima",
+     "nomes": [
+      "C#7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      3,
+      2
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 2,
+     "cifra": "D7",
+     "cifra_alt": "",
+     "nome": "Ré com sétima",
+     "nomes": [
+      "D7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      4,
+      3
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 3,
+     "cifra": "D#7",
+     "cifra_alt": "Eb7",
+     "nome": "Ré# com sétima",
+     "nomes": [
+      "D#7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      5,
+      4
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      6,
+      5
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 5,
+     "cifra": "F7",
+     "cifra_alt": "",
+     "nome": "Fá com sétima",
+     "nomes": [
+      "F7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      7,
+      6
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 6,
+     "cifra": "F#7",
+     "cifra_alt": "Gb7",
+     "nome": "Fá# com sétima",
+     "nomes": [
+      "F#7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      8,
+      7
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 7,
+     "cifra": "G7",
+     "cifra_alt": "",
+     "nome": "Sol com sétima",
+     "nomes": [
+      "G7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      9,
+      8
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 8,
+     "cifra": "G#7",
+     "cifra_alt": "Ab7",
+     "nome": "Sol# com sétima",
+     "nomes": [
+      "G#7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      10,
+      9
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 9,
+     "cifra": "A7",
+     "cifra_alt": "",
+     "nome": "Lá com sétima",
+     "nomes": [
+      "A7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      11,
+      10
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 10,
+     "cifra": "A#7",
+     "cifra_alt": "Bb7",
+     "nome": "Lá# com sétima",
+     "nomes": [
+      "A#7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      14,
+      13,
+      12,
+      11
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 11,
+     "cifra": "B7",
+     "cifra_alt": "",
+     "nome": "Si com sétima",
+     "nomes": [
+      "B7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      15,
+      14,
+      13,
+      12
+     ],
+     "dedos": [
+      null,
+      4,
+      3,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 0,
+     "cifra": "C7",
+     "cifra_alt": "",
+     "nome": "Dó com sétima",
+     "nomes": [
+      "C7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7-E",
+   "tipo": "7",
+   "letra": "E",
+   "nome": "Sétima E",
+   "descricao": "pestana em 4 pares, sem o 5º par, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": [
+    0,
+    "4",
+    "1"
+   ],
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 10,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      0,
+      3,
+      0
+     ],
+     "dedos": [
+      null,
+      null,
+      null,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      1,
+      4,
+      1
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      1,
+      "4",
+      "1"
+     ],
+     "casa": 1,
+     "raiz": 5,
+     "cifra": "F7",
+     "cifra_alt": "",
+     "nome": "Fá com sétima",
+     "nomes": [
+      "F7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      2,
+      5,
+      2
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      2,
+      "4",
+      "1"
+     ],
+     "casa": 2,
+     "raiz": 6,
+     "cifra": "F#7",
+     "cifra_alt": "Gb7",
+     "nome": "Fá# com sétima",
+     "nomes": [
+      "F#7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      3,
+      6,
+      3
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      3,
+      "4",
+      "1"
+     ],
+     "casa": 3,
+     "raiz": 7,
+     "cifra": "G7",
+     "cifra_alt": "",
+     "nome": "Sol com sétima",
+     "nomes": [
+      "G7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      4,
+      7,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      4,
+      "4",
+      "1"
+     ],
+     "casa": 4,
+     "raiz": 8,
+     "cifra": "G#7",
+     "cifra_alt": "Ab7",
+     "nome": "Sol# com sétima",
+     "nomes": [
+      "G#7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      5,
+      8,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      5,
+      "4",
+      "1"
+     ],
+     "casa": 5,
+     "raiz": 9,
+     "cifra": "A7",
+     "cifra_alt": "",
+     "nome": "Lá com sétima",
+     "nomes": [
+      "A7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      6,
+      9,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      6,
+      "4",
+      "1"
+     ],
+     "casa": 6,
+     "raiz": 10,
+     "cifra": "A#7",
+     "cifra_alt": "Bb7",
+     "nome": "Lá# com sétima",
+     "nomes": [
+      "A#7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      7,
+      10,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      7,
+      "4",
+      "1"
+     ],
+     "casa": 7,
+     "raiz": 11,
+     "cifra": "B7",
+     "cifra_alt": "",
+     "nome": "Si com sétima",
+     "nomes": [
+      "B7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      8,
+      11,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      8,
+      "4",
+      "1"
+     ],
+     "casa": 8,
+     "raiz": 0,
+     "cifra": "C7",
+     "cifra_alt": "",
+     "nome": "Dó com sétima",
+     "nomes": [
+      "C7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      9,
+      12,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      9,
+      "4",
+      "1"
+     ],
+     "casa": 9,
+     "raiz": 1,
+     "cifra": "C#7",
+     "cifra_alt": "Db7",
+     "nome": "Dó# com sétima",
+     "nomes": [
+      "C#7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      10,
+      13,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      10,
+      "4",
+      "1"
+     ],
+     "casa": 10,
+     "raiz": 2,
+     "cifra": "D7",
+     "cifra_alt": "",
+     "nome": "Ré com sétima",
+     "nomes": [
+      "D7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      11,
+      14,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      11,
+      "4",
+      "1"
+     ],
+     "casa": 11,
+     "raiz": 3,
+     "cifra": "D#7",
+     "cifra_alt": "Eb7",
+     "nome": "Ré# com sétima",
+     "nomes": [
+      "D#7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      12,
+      15,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      1,
+      4,
+      1
+     ],
+     "pestana": [
+      12,
+      "4",
+      "1"
+     ],
+     "casa": 12,
+     "raiz": 4,
+     "cifra": "E7",
+     "cifra_alt": "",
+     "nome": "Mi com sétima",
+     "nomes": [
+      "E7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7M-A",
+   "tipo": "7M",
+   "letra": "A",
+   "nome": "Sétima maior A",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    null,
+    [
+     1,
+     2
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     1,
+     4
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      1,
+      1,
+      1,
+      0
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 5,
+     "cifra": "F7M",
+     "cifra_alt": "",
+     "nome": "Fá com sétima maior",
+     "nomes": [
+      "F7M"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      2,
+      2,
+      1
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 6,
+     "cifra": "F#7M",
+     "cifra_alt": "Gb7M",
+     "nome": "Fá# com sétima maior",
+     "nomes": [
+      "F#7M"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      3,
+      3,
+      2
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 7,
+     "cifra": "G7M",
+     "cifra_alt": "",
+     "nome": "Sol com sétima maior",
+     "nomes": [
+      "G7M"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      4,
+      4,
+      3
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 8,
+     "cifra": "G#7M",
+     "cifra_alt": "Ab7M",
+     "nome": "Sol# com sétima maior",
+     "nomes": [
+      "G#7M"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      5,
+      5,
+      4
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 9,
+     "cifra": "A7M",
+     "cifra_alt": "",
+     "nome": "Lá com sétima maior",
+     "nomes": [
+      "A7M"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      6,
+      6,
+      5
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 10,
+     "cifra": "A#7M",
+     "cifra_alt": "Bb7M",
+     "nome": "Lá# com sétima maior",
+     "nomes": [
+      "A#7M"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      7,
+      7,
+      6
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 11,
+     "cifra": "B7M",
+     "cifra_alt": "",
+     "nome": "Si com sétima maior",
+     "nomes": [
+      "B7M"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      8,
+      8,
+      7
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 0,
+     "cifra": "C7M",
+     "cifra_alt": "",
+     "nome": "Dó com sétima maior",
+     "nomes": [
+      "C7M"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      9,
+      9,
+      8
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 1,
+     "cifra": "C#7M",
+     "cifra_alt": "Db7M",
+     "nome": "Dó# com sétima maior",
+     "nomes": [
+      "C#7M"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      10,
+      10,
+      9
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 2,
+     "cifra": "D7M",
+     "cifra_alt": "",
+     "nome": "Ré com sétima maior",
+     "nomes": [
+      "D7M"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      11,
+      11,
+      10
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 3,
+     "cifra": "D#7M",
+     "cifra_alt": "Eb7M",
+     "nome": "Ré# com sétima maior",
+     "nomes": [
+      "D#7M"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      12,
+      12,
+      11
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 4,
+     "cifra": "E7M",
+     "cifra_alt": "",
+     "nome": "Mi com sétima maior",
+     "nomes": [
+      "E7M"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      13,
+      13,
+      12
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 5,
+     "cifra": "F7M",
+     "cifra_alt": "",
+     "nome": "Fá com sétima maior",
+     "nomes": [
+      "F7M"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7M-B",
+   "tipo": "7M",
+   "letra": "B",
+   "nome": "Sétima maior B",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 2º par",
+   "dica": "o nome do acorde é a nota do 2º par",
+   "forma": [
+    null,
+    [
+     3,
+     3
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "2",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      3,
+      3,
+      1,
+      0
+     ],
+     "dedos": [
+      null,
+      2,
+      3,
+      1,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 0,
+     "cifra": "C7M",
+     "cifra_alt": "",
+     "nome": "Dó com sétima maior",
+     "nomes": [
+      "C7M"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      4,
+      2,
+      1
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 1,
+     "cifra": "C#7M",
+     "cifra_alt": "Db7M",
+     "nome": "Dó# com sétima maior",
+     "nomes": [
+      "C#7M"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      5,
+      3,
+      2
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 2,
+     "cifra": "D7M",
+     "cifra_alt": "",
+     "nome": "Ré com sétima maior",
+     "nomes": [
+      "D7M"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      6,
+      4,
+      3
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 3,
+     "cifra": "D#7M",
+     "cifra_alt": "Eb7M",
+     "nome": "Ré# com sétima maior",
+     "nomes": [
+      "D#7M"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      7,
+      5,
+      4
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 4,
+     "cifra": "E7M",
+     "cifra_alt": "",
+     "nome": "Mi com sétima maior",
+     "nomes": [
+      "E7M"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      8,
+      6,
+      5
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 5,
+     "cifra": "F7M",
+     "cifra_alt": "",
+     "nome": "Fá com sétima maior",
+     "nomes": [
+      "F7M"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      9,
+      7,
+      6
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 6,
+     "cifra": "F#7M",
+     "cifra_alt": "Gb7M",
+     "nome": "Fá# com sétima maior",
+     "nomes": [
+      "F#7M"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      10,
+      8,
+      7
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 7,
+     "cifra": "G7M",
+     "cifra_alt": "",
+     "nome": "Sol com sétima maior",
+     "nomes": [
+      "G7M"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      11,
+      9,
+      8
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 8,
+     "cifra": "G#7M",
+     "cifra_alt": "Ab7M",
+     "nome": "Sol# com sétima maior",
+     "nomes": [
+      "G#7M"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      12,
+      10,
+      9
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 9,
+     "cifra": "A7M",
+     "cifra_alt": "",
+     "nome": "Lá com sétima maior",
+     "nomes": [
+      "A7M"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      13,
+      11,
+      10
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 10,
+     "cifra": "A#7M",
+     "cifra_alt": "Bb7M",
+     "nome": "Lá# com sétima maior",
+     "nomes": [
+      "A#7M"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      14,
+      14,
+      12,
+      11
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 11,
+     "cifra": "B7M",
+     "cifra_alt": "",
+     "nome": "Si com sétima maior",
+     "nomes": [
+      "B7M"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      15,
+      15,
+      13,
+      12
+     ],
+     "dedos": [
+      null,
+      3,
+      4,
+      2,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 0,
+     "cifra": "C7M",
+     "cifra_alt": "",
+     "nome": "Dó com sétima maior",
+     "nomes": [
+      "C7M"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-7M-C",
+   "tipo": "7M",
+   "letra": "C",
+   "nome": "Sétima maior C",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 2º par",
+   "dica": "o nome do acorde é a nota do 2º par",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "2",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      3,
+      1,
+      3
+     ],
+     "dedos": [
+      null,
+      null,
+      2,
+      1,
+      3
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 0,
+     "cifra": "C7M",
+     "cifra_alt": "",
+     "nome": "Dó com sétima maior",
+     "nomes": [
+      "C7M"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      4,
+      2,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 1,
+     "cifra": "C#7M",
+     "cifra_alt": "Db7M",
+     "nome": "Dó# com sétima maior",
+     "nomes": [
+      "C#7M"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      5,
+      3,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 2,
+     "cifra": "D7M",
+     "cifra_alt": "",
+     "nome": "Ré com sétima maior",
+     "nomes": [
+      "D7M"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      6,
+      4,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 3,
+     "cifra": "D#7M",
+     "cifra_alt": "Eb7M",
+     "nome": "Ré# com sétima maior",
+     "nomes": [
+      "D#7M"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      7,
+      5,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 4,
+     "cifra": "E7M",
+     "cifra_alt": "",
+     "nome": "Mi com sétima maior",
+     "nomes": [
+      "E7M"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      8,
+      6,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 5,
+     "cifra": "F7M",
+     "cifra_alt": "",
+     "nome": "Fá com sétima maior",
+     "nomes": [
+      "F7M"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      9,
+      7,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 6,
+     "cifra": "F#7M",
+     "cifra_alt": "Gb7M",
+     "nome": "Fá# com sétima maior",
+     "nomes": [
+      "F#7M"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      10,
+      8,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 7,
+     "cifra": "G7M",
+     "cifra_alt": "",
+     "nome": "Sol com sétima maior",
+     "nomes": [
+      "G7M"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      11,
+      9,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 8,
+     "cifra": "G#7M",
+     "cifra_alt": "Ab7M",
+     "nome": "Sol# com sétima maior",
+     "nomes": [
+      "G#7M"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      12,
+      10,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 9,
+     "cifra": "A7M",
+     "cifra_alt": "",
+     "nome": "Lá com sétima maior",
+     "nomes": [
+      "A7M"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      13,
+      11,
+      13
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 10,
+     "cifra": "A#7M",
+     "cifra_alt": "Bb7M",
+     "nome": "Lá# com sétima maior",
+     "nomes": [
+      "A#7M"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      14,
+      12,
+      14
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 11,
+     "cifra": "B7M",
+     "cifra_alt": "",
+     "nome": "Si com sétima maior",
+     "nomes": [
+      "B7M"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      15,
+      13,
+      15
+     ],
+     "dedos": [
+      null,
+      1,
+      3,
+      2,
+      4
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 0,
+     "cifra": "C7M",
+     "cifra_alt": "",
+     "nome": "Dó com sétima maior",
+     "nomes": [
+      "C7M"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-m7-A",
+   "tipo": "m7",
+   "letra": "A",
+   "nome": "Menor com sétima A",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    null,
+    [
+     2,
+     3
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     2,
+     4
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      2,
+      1,
+      2,
+      0
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 6,
+     "cifra": "F#m7",
+     "cifra_alt": "Gbm7",
+     "nome": "Fá# menor com sétima",
+     "nomes": [
+      "F#m7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      3,
+      1
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 7,
+     "cifra": "Gm7",
+     "cifra_alt": "",
+     "nome": "Sol menor com sétima",
+     "nomes": [
+      "Gm7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      4,
+      2
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 8,
+     "cifra": "G#m7",
+     "cifra_alt": "Abm7",
+     "nome": "Sol# menor com sétima",
+     "nomes": [
+      "G#m7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      5,
+      3
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 9,
+     "cifra": "Am7",
+     "cifra_alt": "",
+     "nome": "Lá menor com sétima",
+     "nomes": [
+      "Am7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      6,
+      4
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 10,
+     "cifra": "A#m7",
+     "cifra_alt": "Bbm7",
+     "nome": "Lá# menor com sétima",
+     "nomes": [
+      "A#m7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      7,
+      5
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 11,
+     "cifra": "Bm7",
+     "cifra_alt": "",
+     "nome": "Si menor com sétima",
+     "nomes": [
+      "Bm7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      8,
+      6
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 0,
+     "cifra": "Cm7",
+     "cifra_alt": "",
+     "nome": "Dó menor com sétima",
+     "nomes": [
+      "Cm7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      9,
+      7
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 1,
+     "cifra": "C#m7",
+     "cifra_alt": "Dbm7",
+     "nome": "Dó# menor com sétima",
+     "nomes": [
+      "C#m7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      10,
+      8
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 2,
+     "cifra": "Dm7",
+     "cifra_alt": "",
+     "nome": "Ré menor com sétima",
+     "nomes": [
+      "Dm7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      11,
+      9
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 3,
+     "cifra": "D#m7",
+     "cifra_alt": "Ebm7",
+     "nome": "Ré# menor com sétima",
+     "nomes": [
+      "D#m7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      12,
+      10
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 4,
+     "cifra": "Em7",
+     "cifra_alt": "",
+     "nome": "Mi menor com sétima",
+     "nomes": [
+      "Em7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      13,
+      11
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 5,
+     "cifra": "Fm7",
+     "cifra_alt": "",
+     "nome": "Fá menor com sétima",
+     "nomes": [
+      "Fm7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      14,
+      13,
+      14,
+      12
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 6,
+     "cifra": "F#m7",
+     "cifra_alt": "Gbm7",
+     "nome": "Fá# menor com sétima",
+     "nomes": [
+      "F#m7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-m7-B",
+   "tipo": "m7",
+   "letra": "B",
+   "nome": "Menor com sétima B",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 3º par",
+   "dica": "o nome do acorde é a nota do 3º par",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "3",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      1,
+      1,
+      3
+     ],
+     "dedos": [
+      null,
+      null,
+      1,
+      2,
+      3
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 9,
+     "cifra": "Am7",
+     "cifra_alt": "",
+     "nome": "Lá menor com sétima",
+     "nomes": [
+      "Am7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      2,
+      2,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 10,
+     "cifra": "A#m7",
+     "cifra_alt": "Bbm7",
+     "nome": "Lá# menor com sétima",
+     "nomes": [
+      "A#m7"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      3,
+      3,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 11,
+     "cifra": "Bm7",
+     "cifra_alt": "",
+     "nome": "Si menor com sétima",
+     "nomes": [
+      "Bm7"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      4,
+      4,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 0,
+     "cifra": "Cm7",
+     "cifra_alt": "",
+     "nome": "Dó menor com sétima",
+     "nomes": [
+      "Cm7"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      5,
+      5,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 1,
+     "cifra": "C#m7",
+     "cifra_alt": "Dbm7",
+     "nome": "Dó# menor com sétima",
+     "nomes": [
+      "C#m7"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      6,
+      6,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 2,
+     "cifra": "Dm7",
+     "cifra_alt": "",
+     "nome": "Ré menor com sétima",
+     "nomes": [
+      "Dm7"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      7,
+      7,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 3,
+     "cifra": "D#m7",
+     "cifra_alt": "Ebm7",
+     "nome": "Ré# menor com sétima",
+     "nomes": [
+      "D#m7"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      8,
+      8,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 4,
+     "cifra": "Em7",
+     "cifra_alt": "",
+     "nome": "Mi menor com sétima",
+     "nomes": [
+      "Em7"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      9,
+      9,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 5,
+     "cifra": "Fm7",
+     "cifra_alt": "",
+     "nome": "Fá menor com sétima",
+     "nomes": [
+      "Fm7"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      10,
+      10,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 6,
+     "cifra": "F#m7",
+     "cifra_alt": "Gbm7",
+     "nome": "Fá# menor com sétima",
+     "nomes": [
+      "F#m7"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      11,
+      11,
+      13
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 7,
+     "cifra": "Gm7",
+     "cifra_alt": "",
+     "nome": "Sol menor com sétima",
+     "nomes": [
+      "Gm7"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      12,
+      12,
+      14
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 8,
+     "cifra": "G#m7",
+     "cifra_alt": "Abm7",
+     "nome": "Sol# menor com sétima",
+     "nomes": [
+      "G#m7"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      13,
+      13,
+      15
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 9,
+     "cifra": "Am7",
+     "cifra_alt": "",
+     "nome": "Lá menor com sétima",
+     "nomes": [
+      "Am7"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-dim7-A",
+   "tipo": "dim7",
+   "letra": "A",
+   "nome": "Diminuto A",
+   "descricao": "sem pestana, sem o 5º par, simétrico, nome pelo 4º par",
+   "dica": "o nome do acorde é a nota do 4º par — e, como o diminuto é simétrico, qualquer outra nota da forma também serve",
+   "forma": [
+    null,
+    [
+     0,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     3,
+     4
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      0,
+      2,
+      2,
+      3
+     ],
+     "dedos": [
+      null,
+      null,
+      1,
+      2,
+      3
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 4,
+     "cifra": "Eº",
+     "cifra_alt": "",
+     "nome": "Mi diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      1,
+      3,
+      3,
+      4
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 5,
+     "cifra": "Fº",
+     "cifra_alt": "",
+     "nome": "Fá diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      2,
+      4,
+      4,
+      5
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 6,
+     "cifra": "F#º",
+     "cifra_alt": "",
+     "nome": "Fá# diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      5,
+      5,
+      6
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 7,
+     "cifra": "Gº",
+     "cifra_alt": "",
+     "nome": "Sol diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      6,
+      6,
+      7
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 8,
+     "cifra": "Abº",
+     "cifra_alt": "",
+     "nome": "Láb diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      7,
+      7,
+      8
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 9,
+     "cifra": "Aº",
+     "cifra_alt": "",
+     "nome": "Lá diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      8,
+      8,
+      9
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 10,
+     "cifra": "Bbº",
+     "cifra_alt": "",
+     "nome": "Sib diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      9,
+      9,
+      10
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 11,
+     "cifra": "Bº",
+     "cifra_alt": "",
+     "nome": "Si diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      10,
+      10,
+      11
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 0,
+     "cifra": "Cº",
+     "cifra_alt": "",
+     "nome": "Dó diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      11,
+      11,
+      12
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 1,
+     "cifra": "C#º",
+     "cifra_alt": "",
+     "nome": "Dó# diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      12,
+      12,
+      13
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 2,
+     "cifra": "Dº",
+     "cifra_alt": "",
+     "nome": "Ré diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      13,
+      13,
+      14
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 3,
+     "cifra": "Ebº",
+     "cifra_alt": "",
+     "nome": "Mib diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      14,
+      14,
+      15
+     ],
+     "dedos": [
+      null,
+      1,
+      2,
+      3,
+      4
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 4,
+     "cifra": "Eº",
+     "cifra_alt": "",
+     "nome": "Mi diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": false,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    }
+   ]
+  },
+  {
+   "id": "fam-dim7-B",
+   "tipo": "dim7",
+   "letra": "B",
+   "nome": "Diminuto B",
+   "descricao": "sem pestana, sem o 5º par, simétrico, nome pelo 4º par",
+   "dica": "o nome do acorde é a nota do 4º par — e, como o diminuto é simétrico, qualquer outra nota da forma também serve",
+   "forma": [
+    null,
+    [
+     3,
+     4
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     2,
+     3
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      2,
+      0
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 7,
+     "cifra": "Gº",
+     "cifra_alt": "",
+     "nome": "Sol diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      3,
+      1
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 8,
+     "cifra": "Abº",
+     "cifra_alt": "",
+     "nome": "Láb diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      4,
+      2
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 9,
+     "cifra": "Aº",
+     "cifra_alt": "",
+     "nome": "Lá diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      5,
+      3
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 10,
+     "cifra": "Bbº",
+     "cifra_alt": "",
+     "nome": "Sib diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      6,
+      4
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 11,
+     "cifra": "Bº",
+     "cifra_alt": "",
+     "nome": "Si diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      7,
+      5
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 0,
+     "cifra": "Cº",
+     "cifra_alt": "",
+     "nome": "Dó diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      8,
+      6
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 1,
+     "cifra": "C#º",
+     "cifra_alt": "",
+     "nome": "Dó# diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      9,
+      7
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 2,
+     "cifra": "Dº",
+     "cifra_alt": "",
+     "nome": "Ré diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      10,
+      8
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 3,
+     "cifra": "Ebº",
+     "cifra_alt": "",
+     "nome": "Mib diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      11,
+      9
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 4,
+     "cifra": "Eº",
+     "cifra_alt": "",
+     "nome": "Mi diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      12,
+      10
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 5,
+     "cifra": "Fº",
+     "cifra_alt": "",
+     "nome": "Fá diminuto",
+     "nomes": [
+      "Dº",
+      "Fº",
+      "Abº",
+      "Bº"
+     ],
+     "raizes": [
+      2,
+      5,
+      8,
+      11
+     ],
+     "grupo_dim": 2,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Ré = Fá = Láb = Si"
+    },
+    {
+     "casas": [
+      -1,
+      14,
+      13,
+      13,
+      11
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 6,
+     "cifra": "F#º",
+     "cifra_alt": "",
+     "nome": "Fá# diminuto",
+     "nomes": [
+      "Cº",
+      "Ebº",
+      "F#º",
+      "Aº"
+     ],
+     "raizes": [
+      0,
+      3,
+      6,
+      9
+     ],
+     "grupo_dim": 0,
+     "dificil": false,
+     "no_dicionario": true,
+     "nomes_pt": "Dó = Mib = Fá# = Lá"
+    },
+    {
+     "casas": [
+      -1,
+      15,
+      14,
+      14,
+      12
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 7,
+     "cifra": "Gº",
+     "cifra_alt": "",
+     "nome": "Sol diminuto",
+     "nomes": [
+      "C#º",
+      "Eº",
+      "Gº",
+      "Bbº"
+     ],
+     "raizes": [
+      1,
+      4,
+      7,
+      10
+     ],
+     "grupo_dim": 1,
+     "dificil": false,
+     "no_dicionario": false,
+     "nomes_pt": "Dó# = Mi = Sol = Sib"
+    }
+   ]
+  },
+  {
+   "id": "fam-m7b5-A",
+   "tipo": "m7b5",
+   "letra": "A",
+   "nome": "Meio-diminuto A",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 1º par",
+   "dica": "o nome do acorde é a nota do 1º par",
+   "forma": [
+    null,
+    [
+     3,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     4
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "1",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      3,
+      0
+     ],
+     "dedos": [
+      null,
+      2,
+      1,
+      3,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 4,
+     "cifra": "Em7(b5)",
+     "cifra_alt": "",
+     "nome": "Mi meio-diminuto",
+     "nomes": [
+      "Em7(b5)"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      4,
+      1
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 5,
+     "cifra": "Fm7(b5)",
+     "cifra_alt": "",
+     "nome": "Fá meio-diminuto",
+     "nomes": [
+      "Fm7(b5)"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      5,
+      2
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 6,
+     "cifra": "F#m7(b5)",
+     "cifra_alt": "Gbm7(b5)",
+     "nome": "Fá# meio-diminuto",
+     "nomes": [
+      "F#m7(b5)"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      6,
+      3
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 7,
+     "cifra": "Gm7(b5)",
+     "cifra_alt": "",
+     "nome": "Sol meio-diminuto",
+     "nomes": [
+      "Gm7(b5)"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      7,
+      4
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 8,
+     "cifra": "G#m7(b5)",
+     "cifra_alt": "Abm7(b5)",
+     "nome": "Sol# meio-diminuto",
+     "nomes": [
+      "G#m7(b5)"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      8,
+      5
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 9,
+     "cifra": "Am7(b5)",
+     "cifra_alt": "",
+     "nome": "Lá meio-diminuto",
+     "nomes": [
+      "Am7(b5)"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      9,
+      6
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 10,
+     "cifra": "A#m7(b5)",
+     "cifra_alt": "Bbm7(b5)",
+     "nome": "Lá# meio-diminuto",
+     "nomes": [
+      "A#m7(b5)"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      10,
+      7
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 11,
+     "cifra": "Bm7(b5)",
+     "cifra_alt": "",
+     "nome": "Si meio-diminuto",
+     "nomes": [
+      "Bm7(b5)"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      11,
+      8
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 0,
+     "cifra": "Cm7(b5)",
+     "cifra_alt": "",
+     "nome": "Dó meio-diminuto",
+     "nomes": [
+      "Cm7(b5)"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      12,
+      9
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 1,
+     "cifra": "C#m7(b5)",
+     "cifra_alt": "Dbm7(b5)",
+     "nome": "Dó# meio-diminuto",
+     "nomes": [
+      "C#m7(b5)"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      13,
+      10
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 2,
+     "cifra": "Dm7(b5)",
+     "cifra_alt": "",
+     "nome": "Ré meio-diminuto",
+     "nomes": [
+      "Dm7(b5)"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      14,
+      13,
+      14,
+      11
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 3,
+     "cifra": "D#m7(b5)",
+     "cifra_alt": "Ebm7(b5)",
+     "nome": "Ré# meio-diminuto",
+     "nomes": [
+      "D#m7(b5)"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      15,
+      14,
+      15,
+      12
+     ],
+     "dedos": [
+      null,
+      3,
+      2,
+      4,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 4,
+     "cifra": "Em7(b5)",
+     "cifra_alt": "",
+     "nome": "Mi meio-diminuto",
+     "nomes": [
+      "Em7(b5)"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  },
+  {
+   "id": "fam-m7b5-B",
+   "tipo": "m7b5",
+   "letra": "B",
+   "nome": "Meio-diminuto B",
+   "descricao": "sem pestana, sem o 5º par, fundamental no 4º par",
+   "dica": "o nome do acorde é a nota do 4º par",
+   "forma": [
+    null,
+    [
+     2,
+     4
+    ],
+    [
+     1,
+     2
+    ],
+    [
+     1,
+     3
+    ],
+    [
+     0,
+     1
+    ]
+   ],
+   "pestana_rel": null,
+   "fundamental": "4",
+   "referencia": null,
+   "no_dicionario": 11,
+   "posicoes": [
+    {
+     "casas": [
+      -1,
+      2,
+      1,
+      1,
+      0
+     ],
+     "dedos": [
+      null,
+      3,
+      1,
+      2,
+      null
+     ],
+     "pestana": null,
+     "casa": 0,
+     "raiz": 6,
+     "cifra": "F#m7(b5)",
+     "cifra_alt": "Gbm7(b5)",
+     "nome": "Fá# meio-diminuto",
+     "nomes": [
+      "F#m7(b5)"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      3,
+      2,
+      2,
+      1
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 1,
+     "raiz": 7,
+     "cifra": "Gm7(b5)",
+     "cifra_alt": "",
+     "nome": "Sol meio-diminuto",
+     "nomes": [
+      "Gm7(b5)"
+     ],
+     "raizes": [
+      7
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      4,
+      3,
+      3,
+      2
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 2,
+     "raiz": 8,
+     "cifra": "G#m7(b5)",
+     "cifra_alt": "Abm7(b5)",
+     "nome": "Sol# meio-diminuto",
+     "nomes": [
+      "G#m7(b5)"
+     ],
+     "raizes": [
+      8
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      5,
+      4,
+      4,
+      3
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 3,
+     "raiz": 9,
+     "cifra": "Am7(b5)",
+     "cifra_alt": "",
+     "nome": "Lá meio-diminuto",
+     "nomes": [
+      "Am7(b5)"
+     ],
+     "raizes": [
+      9
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      6,
+      5,
+      5,
+      4
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 4,
+     "raiz": 10,
+     "cifra": "A#m7(b5)",
+     "cifra_alt": "Bbm7(b5)",
+     "nome": "Lá# meio-diminuto",
+     "nomes": [
+      "A#m7(b5)"
+     ],
+     "raizes": [
+      10
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      7,
+      6,
+      6,
+      5
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 5,
+     "raiz": 11,
+     "cifra": "Bm7(b5)",
+     "cifra_alt": "",
+     "nome": "Si meio-diminuto",
+     "nomes": [
+      "Bm7(b5)"
+     ],
+     "raizes": [
+      11
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      8,
+      7,
+      7,
+      6
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 6,
+     "raiz": 0,
+     "cifra": "Cm7(b5)",
+     "cifra_alt": "",
+     "nome": "Dó meio-diminuto",
+     "nomes": [
+      "Cm7(b5)"
+     ],
+     "raizes": [
+      0
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      9,
+      8,
+      8,
+      7
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 7,
+     "raiz": 1,
+     "cifra": "C#m7(b5)",
+     "cifra_alt": "Dbm7(b5)",
+     "nome": "Dó# meio-diminuto",
+     "nomes": [
+      "C#m7(b5)"
+     ],
+     "raizes": [
+      1
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      10,
+      9,
+      9,
+      8
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 8,
+     "raiz": 2,
+     "cifra": "Dm7(b5)",
+     "cifra_alt": "",
+     "nome": "Ré meio-diminuto",
+     "nomes": [
+      "Dm7(b5)"
+     ],
+     "raizes": [
+      2
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      11,
+      10,
+      10,
+      9
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 9,
+     "raiz": 3,
+     "cifra": "D#m7(b5)",
+     "cifra_alt": "Ebm7(b5)",
+     "nome": "Ré# meio-diminuto",
+     "nomes": [
+      "D#m7(b5)"
+     ],
+     "raizes": [
+      3
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      12,
+      11,
+      11,
+      10
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 10,
+     "raiz": 4,
+     "cifra": "Em7(b5)",
+     "cifra_alt": "",
+     "nome": "Mi meio-diminuto",
+     "nomes": [
+      "Em7(b5)"
+     ],
+     "raizes": [
+      4
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      13,
+      12,
+      12,
+      11
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 11,
+     "raiz": 5,
+     "cifra": "Fm7(b5)",
+     "cifra_alt": "",
+     "nome": "Fá meio-diminuto",
+     "nomes": [
+      "Fm7(b5)"
+     ],
+     "raizes": [
+      5
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": true
+    },
+    {
+     "casas": [
+      -1,
+      14,
+      13,
+      13,
+      12
+     ],
+     "dedos": [
+      null,
+      4,
+      2,
+      3,
+      1
+     ],
+     "pestana": null,
+     "casa": 12,
+     "raiz": 6,
+     "cifra": "F#m7(b5)",
+     "cifra_alt": "Gbm7(b5)",
+     "nome": "Fá# meio-diminuto",
+     "nomes": [
+      "F#m7(b5)"
+     ],
+     "raizes": [
+      6
+     ],
+     "grupo_dim": null,
+     "dificil": false,
+     "no_dicionario": false
+    }
+   ]
+  }
+ ],
+ "abertas": [
+  {
+   "casas": [
+    2,
+    1,
+    0,
+    2,
+    -1
+   ],
+   "dedos": [
+    2,
+    1,
+    null,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "3ª"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "5ª"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "fundamental"
+    },
+    null
+   ],
+   "acorde": "M-C#",
+   "titulo": "C# ou Db",
+   "tipo": "M",
+   "cifra": "C#",
+   "nome": "Dó# maior",
+   "raiz": 1,
+   "fundamental": "5",
+   "ausente": null,
+   "casa0_de": [
+    "fam-M-C"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    1,
+    0,
+    2,
+    1
+   ],
+   "dedos": [
+    null,
+    1,
+    null,
+    3,
+    2
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "3ª"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "5ª"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "3ª"
+    }
+   ],
+   "acorde": "M-C#",
+   "titulo": "C# ou Db",
+   "tipo": "M",
+   "cifra": "C#",
+   "nome": "Dó# maior",
+   "raiz": 1,
+   "fundamental": "2",
+   "ausente": null,
+   "casa0_de": [
+    "fam-M-D"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    0,
+    0,
+    0
+   ],
+   "dedos": [
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "3ª"
+    },
+    {
+     "pc": 11,
+     "pt": "Si",
+     "cifra": "B",
+     "papel": "5ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "fundamental"
+    }
+   ],
+   "acorde": "M-E",
+   "titulo": "E",
+   "tipo": "M",
+   "cifra": "E",
+   "nome": "Mi maior",
+   "raiz": 4,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-M-B"
+   ]
+  },
+  {
+   "casas": [
+    2,
+    0,
+    1,
+    2,
+    0
+   ],
+   "dedos": [
+    2,
+    null,
+    1,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "3ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "5ª"
+    },
+    {
+     "pc": 9,
+     "pt": "Lá",
+     "cifra": "A",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "3ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "5ª"
+    }
+   ],
+   "acorde": "M-A",
+   "titulo": "A",
+   "tipo": "M",
+   "cifra": "A",
+   "nome": "Lá maior",
+   "raiz": 9,
+   "fundamental": "3",
+   "ausente": null,
+   "casa0_de": [
+    "fam-M-A"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    0,
+    2,
+    0
+   ],
+   "dedos": [
+    null,
+    null,
+    null,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "5ª"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª menor"
+    }
+   ],
+   "acorde": "m-C#",
+   "titulo": "C#m ou Dbm",
+   "tipo": "m",
+   "cifra": "C#m",
+   "nome": "Dó# menor",
+   "raiz": 1,
+   "fundamental": "2",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m-C"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "dedos": [
+    null,
+    1,
+    null,
+    2,
+    3
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "5ª"
+    },
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "fundamental"
+    }
+   ],
+   "acorde": "m-F",
+   "titulo": "Fm",
+   "tipo": "m",
+   "cifra": "Fm",
+   "nome": "Fá menor",
+   "raiz": 5,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m-B"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    1,
+    1,
+    0
+   ],
+   "dedos": [
+    null,
+    null,
+    1,
+    2,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "5ª"
+    },
+    {
+     "pc": 9,
+     "pt": "Lá",
+     "cifra": "A",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "5ª"
+    }
+   ],
+   "acorde": "m-A",
+   "titulo": "Am",
+   "tipo": "m",
+   "cifra": "Am",
+   "nome": "Lá menor",
+   "raiz": 9,
+   "fundamental": "3",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m-A"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    3,
+    2,
+    1,
+    0
+   ],
+   "dedos": [
+    null,
+    3,
+    2,
+    1,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "5ª"
+    },
+    {
+     "pc": 10,
+     "pt": "Lá#",
+     "cifra": "A#",
+     "papel": "7ª"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª"
+    }
+   ],
+   "acorde": "7-C",
+   "titulo": "C7",
+   "tipo": "7",
+   "cifra": "C7",
+   "nome": "Dó com sétima",
+   "raiz": 0,
+   "fundamental": "2",
+   "ausente": null,
+   "casa0_de": [
+    "fam-7-D"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "dedos": [
+    null,
+    1,
+    null,
+    null,
+    2
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "3ª"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "5ª"
+    },
+    {
+     "pc": 11,
+     "pt": "Si",
+     "cifra": "B",
+     "papel": "7ª"
+    },
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "3ª"
+    }
+   ],
+   "acorde": "7-C#",
+   "titulo": "C#7 ou Db7",
+   "tipo": "7",
+   "cifra": "C#7",
+   "nome": "Dó# com sétima",
+   "raiz": 1,
+   "fundamental": null,
+   "ausente": 1,
+   "casa0_de": [
+    "fam-7-B"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    0,
+    3,
+    0
+   ],
+   "dedos": [
+    null,
+    null,
+    null,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "3ª"
+    },
+    {
+     "pc": 2,
+     "pt": "Ré",
+     "cifra": "D",
+     "papel": "7ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "fundamental"
+    }
+   ],
+   "acorde": "7-E",
+   "titulo": "E7",
+   "tipo": "7",
+   "cifra": "E7",
+   "nome": "Mi com sétima",
+   "raiz": 4,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-7-E"
+   ]
+  },
+  {
+   "casas": [
+    1,
+    2,
+    0,
+    1,
+    -1
+   ],
+   "dedos": [
+    1,
+    3,
+    null,
+    2,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "3ª"
+    },
+    {
+     "pc": 6,
+     "pt": "Fá#",
+     "cifra": "F#",
+     "papel": "7ª"
+    },
+    {
+     "pc": 8,
+     "pt": "Sol#",
+     "cifra": "G#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "3ª"
+    },
+    null
+   ],
+   "acorde": "7-G#",
+   "titulo": "G#7 ou Ab7",
+   "tipo": "7",
+   "cifra": "G#7",
+   "nome": "Sol# com sétima",
+   "raiz": 8,
+   "fundamental": "3",
+   "ausente": null,
+   "casa0_de": [
+    "fam-7-C"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    3,
+    3,
+    1,
+    0
+   ],
+   "dedos": [
+    null,
+    3,
+    4,
+    1,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "5ª"
+    },
+    {
+     "pc": 11,
+     "pt": "Si",
+     "cifra": "B",
+     "papel": "7ª maior"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª"
+    }
+   ],
+   "acorde": "7M-C",
+   "titulo": "C7M",
+   "tipo": "7M",
+   "cifra": "C7M",
+   "nome": "Dó com sétima maior",
+   "raiz": 0,
+   "fundamental": "2",
+   "ausente": null,
+   "casa0_de": [
+    "fam-7M-B"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    3,
+    1,
+    3
+   ],
+   "dedos": [
+    null,
+    null,
+    2,
+    1,
+    3
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª"
+    },
+    {
+     "pc": 11,
+     "pt": "Si",
+     "cifra": "B",
+     "papel": "7ª maior"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "5ª"
+    }
+   ],
+   "acorde": "7M-C",
+   "titulo": "C7M",
+   "tipo": "7M",
+   "cifra": "C7M",
+   "nome": "Dó com sétima maior",
+   "raiz": 0,
+   "fundamental": "2",
+   "ausente": null,
+   "casa0_de": [
+    "fam-7M-C"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "dedos": [
+    null,
+    1,
+    2,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 5,
+     "pt": "Fá",
+     "cifra": "F",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 9,
+     "pt": "Lá",
+     "cifra": "A",
+     "papel": "3ª"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "5ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "7ª maior"
+    }
+   ],
+   "acorde": "7M-F",
+   "titulo": "F7M",
+   "tipo": "7M",
+   "cifra": "F7M",
+   "nome": "Fá com sétima maior",
+   "raiz": 5,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-7M-A"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    2,
+    1,
+    2,
+    0
+   ],
+   "dedos": [
+    null,
+    2,
+    1,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 6,
+     "pt": "Fá#",
+     "cifra": "F#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 9,
+     "pt": "Lá",
+     "cifra": "A",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "5ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "7ª"
+    }
+   ],
+   "acorde": "m7-F#",
+   "titulo": "F#m7 ou Gbm7",
+   "tipo": "m7",
+   "cifra": "F#m7",
+   "nome": "Fá# menor com sétima",
+   "raiz": 6,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m7-A"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    1,
+    1,
+    3
+   ],
+   "dedos": [
+    null,
+    null,
+    1,
+    2,
+    4
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "5ª"
+    },
+    {
+     "pc": 9,
+     "pt": "Lá",
+     "cifra": "A",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "7ª"
+    }
+   ],
+   "acorde": "m7-A",
+   "titulo": "Am7",
+   "tipo": "m7",
+   "cifra": "Am7",
+   "nome": "Lá menor com sétima",
+   "raiz": 9,
+   "fundamental": "3",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m7-B"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    0,
+    2,
+    2,
+    3
+   ],
+   "dedos": [
+    null,
+    null,
+    1,
+    2,
+    3
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 10,
+     "pt": "Lá#",
+     "cifra": "A#",
+     "papel": "7ª diminuta"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "5ª diminuta"
+    }
+   ],
+   "acorde": "dim7-C#",
+   "titulo": "C#º ou Eº ou Gº ou Bbº",
+   "tipo": "dim7",
+   "cifra": "C#º",
+   "nome": "Dó# diminuto",
+   "raiz": 1,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-dim7-A"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    3,
+    2,
+    2,
+    0
+   ],
+   "dedos": [
+    null,
+    3,
+    1,
+    2,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "5ª diminuta"
+    },
+    {
+     "pc": 10,
+     "pt": "Lá#",
+     "cifra": "A#",
+     "papel": "7ª diminuta"
+    },
+    {
+     "pc": 1,
+     "pt": "Dó#",
+     "cifra": "C#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "3ª menor"
+    }
+   ],
+   "acorde": "dim7-C#",
+   "titulo": "C#º ou Eº ou Gº ou Bbº",
+   "tipo": "dim7",
+   "cifra": "C#º",
+   "nome": "Dó# diminuto",
+   "raiz": 1,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-dim7-B"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    3,
+    2,
+    3,
+    0
+   ],
+   "dedos": [
+    null,
+    2,
+    1,
+    3,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 7,
+     "pt": "Sol",
+     "cifra": "G",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 10,
+     "pt": "Lá#",
+     "cifra": "A#",
+     "papel": "5ª diminuta"
+    },
+    {
+     "pc": 2,
+     "pt": "Ré",
+     "cifra": "D",
+     "papel": "7ª"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "fundamental"
+    }
+   ],
+   "acorde": "m7b5-E",
+   "titulo": "Em7(b5)",
+   "tipo": "m7b5",
+   "cifra": "Em7(b5)",
+   "nome": "Mi meio-diminuto",
+   "raiz": 4,
+   "fundamental": "1",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m7b5-A"
+   ]
+  },
+  {
+   "casas": [
+    -1,
+    2,
+    1,
+    1,
+    0
+   ],
+   "dedos": [
+    null,
+    3,
+    1,
+    2,
+    null
+   ],
+   "pestana": null,
+   "notas": [
+    null,
+    {
+     "pc": 6,
+     "pt": "Fá#",
+     "cifra": "F#",
+     "papel": "fundamental"
+    },
+    {
+     "pc": 9,
+     "pt": "Lá",
+     "cifra": "A",
+     "papel": "3ª menor"
+    },
+    {
+     "pc": 0,
+     "pt": "Dó",
+     "cifra": "C",
+     "papel": "5ª diminuta"
+    },
+    {
+     "pc": 4,
+     "pt": "Mi",
+     "cifra": "E",
+     "papel": "7ª"
+    }
+   ],
+   "acorde": "m7b5-F#",
+   "titulo": "F#m7(b5) ou Gbm7(b5)",
+   "tipo": "m7b5",
+   "cifra": "F#m7(b5)",
+   "nome": "Fá# meio-diminuto",
+   "raiz": 6,
+   "fundamental": "4",
+   "ausente": null,
+   "casa0_de": [
+    "fam-m7b5-B"
+   ]
+  }
+ ]
+}
